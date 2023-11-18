@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/GroupProject/CS205/cs205/Content/CS205.umap",
+				"F:/GroupProject/CS205/cs205/Content/Fantastic_Village_Pack/maps/map_village_overview_BuiltData.uasset",
+				"F:/GroupProject/CS205/cs205/Content/Fantastic_Village_Pack/maps/map_village_night_BuiltData.uasset",
+				"F:/GroupProject/CS205/cs205/Content/Fantastic_Village_Pack/maps/map_village_day_BuiltData.uasset",
 				"C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/NewMap_HLOD0_Instancing.uasset",
 				"C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH.uasset",
 				"C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9.uasset",
