@@ -1605,3 +1605,851 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.20-23.56.01:056][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 353 ms)
 [2023.11.20-23.56.01:058][733]AssetCheck: New page: Asset Save: FishingMiniGame_UI
 [2023.11.20-23.56.01:058][733]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.20-23.56.35:213][572]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.20-23.56.35:224][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.20-23.56.35:225][572]PIE: New page: PIE session: practice (22/11/2023, 1:56:35 am)
+[2023.11.20-23.56.35:225][572]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_practice
+[2023.11.20-23.56.35:228][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002937s)
+[2023.11.20-23.56.35:228][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/practice.practice to /Game/Levels/UEDPIE_0_practice.practice (0.002973s)
+[2023.11.20-23.56.35:242][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.20-23.56.35:245][572]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-23.56.35:245][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-23.56.35:245][572]LogAIModule: Creating AISystem for world practice
+[2023.11.20-23.56.35:246][572]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2023.11.20-23.56.35:246][572]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.11.20-23.56.35:246][572]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.20-23.56.35:246][572]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.20-23.56.35:246][572]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.20-23.56.35:246][572]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.20-23.56.35:246][572]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.20-23.56.35:246][572]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.20-23.56.35:246][572]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.20-23.56.35:246][572]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.20-23.56.35:246][572]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.20-23.56.35:246][572]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.20-23.56.35:246][572]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.20-23.56.35:248][572]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.20-23.56.35:272][572]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.20-23.56.35:272][572]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.20-23.56.35:272][572]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.20-23.56.35:272][572]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.20-23.56.35:274][572]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.11.20-23.56.35:274][572]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.11.20-23.56.35:275][572]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.11.20-23.56.35:275][572]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.11.20-23.56.35:275][572]LogInit: FAudioDevice initialized with ID 7.
+[2023.11.20-23.56.35:275][572]LogAudio: Display: Audio Device (ID: 7) registered with world 'practice'.
+[2023.11.20-23.56.35:275][572]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.11.20-23.56.35:277][572]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.20-23.56.35:278][572]LogWorld: Bringing World /Game/Levels/UEDPIE_0_practice.practice up for play (max tick rate 0) at 2023.11.21-12.56.35
+[2023.11.20-23.56.35:278][572]LogWorld: Bringing up level for play took: 0.000680
+[2023.11.20-23.56.35:280][572]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.11.20-23.56.35:282][572]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.20-23.56.35:282][572]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.20-23.56.35:282][572]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.20-23.56.35:283][572]PIE: Server logged in
+[2023.11.20-23.56.35:283][572]PIE: Play in editor total start time 0.059 seconds.
+[2023.11.20-23.56.36:342][650]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.20-23.56.36:342][650]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.20-23.56.37:835][784]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.20-23.56.37:835][784]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.20-23.56.37:835][784]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.20-23.56.39:649][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-23.56.39:649][952]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_practice
+[2023.11.20-23.56.39:649][952]LogWorld: UWorld::CleanupWorld for practice, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-23.56.39:649][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-23.56.39:654][952]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.20-23.56.39:658][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-23.56.39:671][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-23.56.39:671][952]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.11.20-23.56.39:672][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.20-23.56.39:673][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.20-23.56.39:680][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.20-23.56.39:731][956]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.11.20-23.57.25:945][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-23.57.25:992][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.20-23.57.26:029][334]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.20-23.57.26:030][334]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI64FC7FB94CC8E7EB3B47129B3BBDE0DB.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.20-23.57.26:036][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 443 ms)
+[2023.11.20-23.57.26:037][334]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.20-23.57.26:037][334]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.20-23.57.27:460][451]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.20-23.57.27:491][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.20-23.57.27:495][451]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.20-23.57.27:532][451]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.20-23.57.48:296][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-23.57.48:338][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.20-23.57.48:345][389]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.20-23.57.48:346][389]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI0351FFB0484C8048DE1542A09EC6B352.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.20-23.57.48:352][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 500 ms)
+[2023.11.20-23.57.48:353][389]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.20-23.57.48:353][389]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.20-23.57.48:852][426]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.20-23.57.48:891][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.20-23.57.48:893][426]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.20-23.57.48:899][426]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.20-23.58.24:467][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-23.58.24:514][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishSpot_Bp" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishSpot_Bp.uasset" SILENT=true
+[2023.11.20-23.58.24:538][297]LogSavePackage: Moving output files for package: /Game/MiniGames/FishSpot_Bp
+[2023.11.20-23.58.24:539][297]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishSpot_Bp4DDE133E407E872CA32B0991807D46F6.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishSpot_Bp.uasset'
+[2023.11.20-23.58.24:555][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 587 ms)
+[2023.11.20-23.58.24:556][297]AssetCheck: New page: Asset Save: FishSpot_Bp
+[2023.11.20-23.58.24:556][297]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MiniGames/FishSpot_Bp.FishSpot_Bp
+[2023.11.20-23.59.01:082][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-23.59.01:127][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.20-23.59.01:135][147]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.20-23.59.01:135][147]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIE754AEE94BEA1B150632DEA74F7782A3.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.20-23.59.01:142][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 646 ms)
+[2023.11.20-23.59.01:144][147]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.20-23.59.01:144][147]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.20-23.59.21:072][786]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-23.59.21:114][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.20-23.59.21:122][786]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.20-23.59.21:123][786]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIA6F36FA04C58DE78C5AB56B01319E8F6.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.20-23.59.21:128][786]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 703 ms)
+[2023.11.20-23.59.21:130][786]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.20-23.59.21:130][786]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.20-23.59.22:346][882]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.20-23.59.22:378][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.20-23.59.22:382][882]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.20-23.59.22:395][882]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.20-23.59.24:223][ 25]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.20-23.59.24:233][ 25]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.20-23.59.24:233][ 25]LogPlayLevel: [PlayLevel] Compiling FishSpot_Bp before play...
+[2023.11.20-23.59.24:283][ 25]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.20-23.59.24:291][ 25]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.20-23.59.24:293][ 25]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.20-23.59.24:308][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.20-23.59.24:312][ 25]LogPlayLevel: PlayLevel: Blueprint regeneration took 80 ms (1 blueprints)
+[2023.11.20-23.59.24:312][ 25]PIE: New page: PIE session: practice (22/11/2023, 1:59:24 am)
+[2023.11.20-23.59.24:348][ 25]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_practice
+[2023.11.20-23.59.24:350][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002130s)
+[2023.11.20-23.59.24:350][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/practice.practice to /Game/Levels/UEDPIE_0_practice.practice (0.002162s)
+[2023.11.20-23.59.24:360][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.11.20-23.59.24:361][ 25]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-23.59.24:361][ 25]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-23.59.24:362][ 25]LogAIModule: Creating AISystem for world practice
+[2023.11.20-23.59.24:362][ 25]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2023.11.20-23.59.24:362][ 25]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.11.20-23.59.24:362][ 25]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.20-23.59.24:362][ 25]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.20-23.59.24:362][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.20-23.59.24:362][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.20-23.59.24:362][ 25]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.20-23.59.24:362][ 25]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.20-23.59.24:362][ 25]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.20-23.59.24:362][ 25]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.20-23.59.24:362][ 25]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.20-23.59.24:362][ 25]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.20-23.59.24:362][ 25]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.20-23.59.24:364][ 25]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.20-23.59.24:387][ 25]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.20-23.59.24:388][ 25]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.20-23.59.24:388][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.20-23.59.24:388][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.20-23.59.24:389][ 25]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.11.20-23.59.24:389][ 25]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.11.20-23.59.24:390][ 25]LogInit: FAudioDevice initialized with ID 8.
+[2023.11.20-23.59.24:390][ 25]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.11.20-23.59.24:390][ 25]LogAudio: Display: Audio Device (ID: 8) registered with world 'practice'.
+[2023.11.20-23.59.24:390][ 25]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.11.20-23.59.24:390][ 25]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.11.20-23.59.24:392][ 25]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.20-23.59.24:393][ 25]LogWorld: Bringing World /Game/Levels/UEDPIE_0_practice.practice up for play (max tick rate 0) at 2023.11.21-12.59.24
+[2023.11.20-23.59.24:393][ 25]LogWorld: Bringing up level for play took: 0.000613
+[2023.11.20-23.59.24:395][ 25]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.11.20-23.59.24:397][ 25]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.20-23.59.24:397][ 25]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.20-23.59.24:397][ 25]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.20-23.59.24:397][ 25]PIE: Server logged in
+[2023.11.20-23.59.24:398][ 25]PIE: Play in editor total start time 0.166 seconds.
+[2023.11.20-23.59.25:282][ 89]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.20-23.59.25:282][ 89]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.20-23.59.26:778][220]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.20-23.59.26:779][220]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.20-23.59.26:779][220]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.20-23.59.34:679][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-23.59.34:679][929]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_practice
+[2023.11.20-23.59.34:679][929]LogWorld: UWorld::CleanupWorld for practice, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-23.59.34:680][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-23.59.34:682][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.20-23.59.34:686][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-23.59.34:699][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-23.59.34:699][929]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.11.20-23.59.34:699][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.20-23.59.34:700][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.20-23.59.34:707][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.20-23.59.34:773][931]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.11.20-23.59.51:993][332]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.11.20-23.59.57:922][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-23.59.57:958][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CharacterCreationScreen" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/UI/CharacterCreationScreen.uasset" SILENT=true
+[2023.11.20-23.59.57:985][792]LogSavePackage: Moving output files for package: /Game/UI/CharacterCreationScreen
+[2023.11.20-23.59.57:985][792]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/CharacterCreationScreen0D21FD1243214B92232A449BBEA100DF.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/UI/CharacterCreationScreen.uasset'
+[2023.11.20-23.59.57:991][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 772 ms)
+[2023.11.20-23.59.57:992][792]AssetCheck: New page: Asset Save: CharacterCreationScreen
+[2023.11.20-23.59.57:992][792]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/CharacterCreationScreen.CharacterCreationScreen
+[2023.11.20-23.59.58:682][846]BlueprintLog: New page: Compile CharacterCreationScreen
+[2023.11.20-23.59.58:711][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.21-00.00.04:891][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.00.04:933][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.00.04:941][343]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.00.04:941][343]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI5D4A06014F797C5C1F1188BACEA74035.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.00.04:947][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 828 ms)
+[2023.11.21-00.00.04:948][343]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.00.04:948][343]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.00.06:023][427]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.21-00.00.06:072][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.21-00.00.06:077][427]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.00.06:090][427]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.00.44:674][569]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.01.28:828][266]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.01.29:240][299]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.21-00.01.36:334][838]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.01.38:995][ 42]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.01.40:641][179]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.21-00.02.05:688][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.02.05:730][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingSpot_Text" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingSpot_Text.uasset" SILENT=true
+[2023.11.21-00.02.05:734][287]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingSpot_Text
+[2023.11.21-00.02.05:734][287]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingSpot_Text591A13B44B12606001A7AB84C7F047F1.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingSpot_Text.uasset'
+[2023.11.21-00.02.05:740][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 879 ms)
+[2023.11.21-00.02.05:741][287]AssetCheck: New page: Asset Save: FishingSpot_Text
+[2023.11.21-00.02.05:741][287]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingSpot_Text.FishingSpot_Text
+[2023.11.21-00.02.09:645][590]BlueprintLog: New page: Compile FishSpot_Bp
+[2023.11.21-00.02.09:656][590]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.02.09:697][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.21-00.02.09:701][590]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.02.09:710][590]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.02.33:565][545]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.11.21-00.02.33:572][545]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.21-00.02.43:133][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.02.43:177][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.02.43:186][348]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.02.43:186][348]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UID4F5E3A54FA6AE3E10CDB09461F3A53E.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.02.43:192][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 939 ms)
+[2023.11.21-00.02.43:194][348]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.02.43:194][348]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.03.14:311][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.21-00.03.14:314][947]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/practice' took 0.016
+[2023.11.21-00.03.14:314][947]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MiniGames/FishSpot_Bp] ([2] browsable assets)...
+[2023.11.21-00.03.14:314][947]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGames/FishSpot_Bp]
+[2023.11.21-00.03.14:322][947]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MiniGames/FishSpot_Bp_Auto1
+[2023.11.21-00.03.14:322][947]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishSpot_Bp_Auto1B7CA965C4852548B4F523E96ADE4170F.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/Autosaves/Game/MiniGames/FishSpot_Bp_Auto1.uasset'
+[2023.11.21-00.03.14:323][947]LogFileHelpers: Auto-saving content packages took 0.009
+[2023.11.21-00.03.50:524][781]Cmd: TRANSACTION UNDO
+[2023.11.21-00.03.50:524][781]LogEditorTransaction: Undo Add Node
+[2023.11.21-00.04.29:335][ 55]Cmd: TRANSACTION UNDO
+[2023.11.21-00.04.29:335][ 55]LogEditorTransaction: Undo Add Variable
+[2023.11.21-00.05.02:081][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.05.02:123][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishSpot_Bp" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishSpot_Bp.uasset" SILENT=true
+[2023.11.21-00.05.02:131][548]LogSavePackage: Moving output files for package: /Game/MiniGames/FishSpot_Bp
+[2023.11.21-00.05.02:131][548]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishSpot_Bp0A69E49340FB119E37C558B06DDF64E7.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishSpot_Bp.uasset'
+[2023.11.21-00.05.02:137][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 995 ms)
+[2023.11.21-00.05.02:139][548]AssetCheck: New page: Asset Save: FishSpot_Bp
+[2023.11.21-00.05.02:139][548]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MiniGames/FishSpot_Bp.FishSpot_Bp
+[2023.11.21-00.05.11:950][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.05.11:994][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.05.12:002][346]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.05.12:003][346]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI9E629ACC40BC05B4425AC391F8AD0D46.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.05.12:009][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 1.05 sec)
+[2023.11.21-00.05.12:010][346]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.05.12:010][346]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.05.24:092][312]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.21-00.05.39:181][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.05.39:227][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.05.39:236][501]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.05.39:237][501]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI711D0AEA4FA338AB9E5E879ED2956189.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.05.39:242][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.11 sec)
+[2023.11.21-00.05.39:244][501]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.05.39:244][501]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.05.41:363][656]LogSlate: Took 0.016340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.11.21-00.06.15:428][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.06.15:471][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.06.15:480][259]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.06.15:481][259]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIE897BF1E4C420F4334AF2C89D4DA6CA5.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.06.15:487][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 1.17 sec)
+[2023.11.21-00.06.15:489][259]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.06.15:489][259]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.06.17:785][442]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.21-00.06.17:792][442]LogBlueprint: Error: [AssetLog] C:\Users\kyess\Documents\SchoolProjects2023\CS205\cs205\Content\MiniGames\FishingMiniGame_UI.uasset: [Compiler] This blueprint (self) is not a FishSpot_Bp_C, therefore ' Target ' must have a connection.
+[2023.11.21-00.06.17:793][442]LogBlueprint: Error: [AssetLog] C:\Users\kyess\Documents\SchoolProjects2023\CS205\cs205\Content\MiniGames\FishingMiniGame_UI.uasset: [Compiler] Variable node  Get FishingText  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.11.21-00.06.17:821][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.11.21-00.06.17:826][442]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.06.17:840][442]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.06.32:485][557]LogEditorTransaction: Undo Move Node
+[2023.11.21-00.06.32:992][568]LogEditorTransaction: Undo Create Pin Link
+[2023.11.21-00.06.35:400][763]LogEditorTransaction: Undo Add Node
+[2023.11.21-00.06.35:995][805]LogEditorTransaction: Undo Move Node
+[2023.11.21-00.06.36:824][844]LogEditorTransaction: Undo Move Node
+[2023.11.21-00.06.37:276][874]LogEditorTransaction: Undo Create Pin Link
+[2023.11.21-00.06.37:718][903]LogEditorTransaction: Undo Add Node
+[2023.11.21-00.06.38:057][923]LogEditorTransaction: Undo Delete current selection
+[2023.11.21-00.06.38:492][951]LogEditorTransaction: Undo Move Node
+[2023.11.21-00.06.38:876][975]LogEditorTransaction: Undo Add Node
+[2023.11.21-00.06.39:178][992]LogEditorTransaction: Undo Move Node
+[2023.11.21-00.06.39:654][ 18]LogEditorTransaction: Undo Move Node
+[2023.11.21-00.06.40:115][ 29]LogEditorTransaction: Undo Add Node
+[2023.11.21-00.06.40:649][ 64]LogEditorTransaction: Undo Add Node
+[2023.11.21-00.06.41:272][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.06.41:320][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.06.41:329][109]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.06.41:329][109]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI7815D2DB414FC18DA1DA889DF3BDF436.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.06.41:336][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.23 sec)
+[2023.11.21-00.06.41:337][109]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.06.41:338][109]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.06.42:178][181]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.21-00.06.42:215][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.21-00.06.42:221][181]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.06.42:229][181]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.08.37:976][958]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.21-00.08.38:004][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.21-00.08.38:007][958]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.08.38:026][958]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.08.38:656][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.08.38:700][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.08.38:709][  5]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.08.38:710][  5]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UICAD1379E46724A36F9BCF99973E77762.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.08.38:716][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 1.29 sec)
+[2023.11.21-00.08.38:724][  5]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.08.38:724][  5]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.08.58:878][555]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.08.58:930][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingSpot_Text" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingSpot_Text.uasset" SILENT=true
+[2023.11.21-00.08.58:933][555]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingSpot_Text
+[2023.11.21-00.08.58:933][555]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingSpot_TextA4AC0BFB4E10E2D4B09CFCB4692C723A.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingSpot_Text.uasset'
+[2023.11.21-00.08.58:938][555]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.35 sec)
+[2023.11.21-00.08.58:940][555]AssetCheck: New page: Asset Save: FishingSpot_Text
+[2023.11.21-00.08.58:940][555]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingSpot_Text.FishingSpot_Text
+[2023.11.21-00.09.12:436][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.09.12:476][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingSpot_Text" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingSpot_Text.uasset" SILENT=true
+[2023.11.21-00.09.12:479][659]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingSpot_Text
+[2023.11.21-00.09.12:480][659]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingSpot_TextD2262BB647624C1A0CF0AABADCC873A4.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingSpot_Text.uasset'
+[2023.11.21-00.09.12:485][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 1.40 sec)
+[2023.11.21-00.09.12:487][659]AssetCheck: New page: Asset Save: FishingSpot_Text
+[2023.11.21-00.09.12:487][659]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingSpot_Text.FishingSpot_Text
+[2023.11.21-00.09.27:568][846]BlueprintLog: New page: Compile FishingSpot_Text
+[2023.11.21-00.09.27:615][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.21-00.09.27:621][846]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.09.27:640][846]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.09.28:760][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.09.28:807][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingSpot_Text" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingSpot_Text.uasset" SILENT=true
+[2023.11.21-00.09.28:811][929]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingSpot_Text
+[2023.11.21-00.09.28:811][929]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingSpot_TextD567D138445E605B4B87B4A39E069F16.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingSpot_Text.uasset'
+[2023.11.21-00.09.28:817][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 1.46 sec)
+[2023.11.21-00.09.28:818][929]AssetCheck: New page: Asset Save: FishingSpot_Text
+[2023.11.21-00.09.28:818][929]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingSpot_Text.FishingSpot_Text
+[2023.11.21-00.09.39:084][775]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.09.43:878][170]Cmd: TRANSACTION UNDO
+[2023.11.21-00.09.43:878][170]LogEditorTransaction: Undo Add Variable
+[2023.11.21-00.09.43:935][170]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.09.43:942][170]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.09.43:945][170]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.09.44:713][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.09.44:753][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishSpot_Bp" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishSpot_Bp.uasset" SILENT=true
+[2023.11.21-00.09.44:761][208]LogSavePackage: Moving output files for package: /Game/MiniGames/FishSpot_Bp
+[2023.11.21-00.09.44:762][208]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishSpot_Bp788FB2BD42FB187ACD5639AF4A5C4973.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishSpot_Bp.uasset'
+[2023.11.21-00.09.44:769][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 1.51 sec)
+[2023.11.21-00.09.44:770][208]AssetCheck: New page: Asset Save: FishSpot_Bp
+[2023.11.21-00.09.44:770][208]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MiniGames/FishSpot_Bp.FishSpot_Bp
+[2023.11.21-00.09.46:020][313]BlueprintLog: New page: Compile FishSpot_Bp
+[2023.11.21-00.09.46:032][313]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.09.46:058][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.11.21-00.09.46:068][313]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.09.46:080][313]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.09.46:277][323]BlueprintLog: New page: Compile FishSpot_Bp
+[2023.11.21-00.09.46:289][323]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.09.46:314][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.11.21-00.09.46:320][323]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.09.46:333][323]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.10.01:701][580]LogEditorClassViewer: Warning: Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.21-00.10.10:208][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.10.10:254][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.10.10:263][268]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.10.10:264][268]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIA74F56224EAD932B37BBE78788C4E1BC.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.10.10:270][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.58 sec)
+[2023.11.21-00.10.10:271][268]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.10.10:271][268]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.10.10:504][286]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.10:504][286]LogEditorTransaction: Undo Move Node
+[2023.11.21-00.10.10:819][294]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.10:819][294]LogEditorTransaction: Undo Rename Widget
+[2023.11.21-00.10.11:002][297]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.11:002][297]LogEditorTransaction: Undo Rename Widget
+[2023.11.21-00.10.11:232][312]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.11:232][312]LogEditorTransaction: Undo Resize Widget
+[2023.11.21-00.10.11:458][328]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.11:458][328]LogEditorTransaction: Undo Edit Size
+[2023.11.21-00.10.11:674][343]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.11:674][343]LogEditorTransaction: Undo Edit font size
+[2023.11.21-00.10.11:860][356]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.11:860][356]LogEditorTransaction: Undo Edit Text
+[2023.11.21-00.10.12:081][372]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.12:082][372]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.11.21-00.10.12:311][387]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.12:311][387]LogEditorTransaction: Undo Resize Widget
+[2023.11.21-00.10.12:570][406]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.12:570][406]LogEditorTransaction: Undo Add Widget
+[2023.11.21-00.10.12:905][431]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.12:905][431]LogEditorTransaction: Undo Move Node
+[2023.11.21-00.10.13:275][457]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.13:275][457]LogEditorTransaction: Undo Create Pin Link
+[2023.11.21-00.10.13:632][482]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.13:632][482]LogEditorTransaction: Undo Move Node
+[2023.11.21-00.10.13:965][505]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.13:965][505]LogEditorTransaction: Undo Add Node
+[2023.11.21-00.10.14:295][524]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.14:295][524]LogEditorTransaction: Undo Delete current selection
+[2023.11.21-00.10.14:610][533]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.14:611][533]LogEditorTransaction: Undo Move Nodes
+[2023.11.21-00.10.14:935][550]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.14:935][550]LogEditorTransaction: Undo Delete current selection
+[2023.11.21-00.10.15:220][569]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.15:220][569]LogEditorTransaction: Undo Promote To Variable
+[2023.11.21-00.10.15:517][589]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.15:517][589]LogEditorTransaction: Undo Add Node
+[2023.11.21-00.10.15:787][607]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.15:787][607]LogEditorTransaction: Undo Move Node
+[2023.11.21-00.10.16:109][628]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.16:109][628]LogEditorTransaction: Undo Add Node
+[2023.11.21-00.10.16:405][648]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.16:405][648]LogEditorTransaction: Undo Move Node
+[2023.11.21-00.10.16:831][678]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.16:831][678]LogEditorTransaction: Undo Move Node
+[2023.11.21-00.10.17:221][706]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.17:221][706]LogEditorTransaction: Undo Move Node
+[2023.11.21-00.10.17:611][733]Cmd: TRANSACTION UNDO
+[2023.11.21-00.10.17:611][733]LogEditorTransaction: Undo Add Node
+[2023.11.21-00.10.20:297][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.10.20:338][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingSpot_Text" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingSpot_Text.uasset" SILENT=true
+[2023.11.21-00.10.20:341][951]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingSpot_Text
+[2023.11.21-00.10.20:342][951]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingSpot_Text28EF6E444E75862C16A443A78E4DD055.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingSpot_Text.uasset'
+[2023.11.21-00.10.20:348][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 1.63 sec)
+[2023.11.21-00.10.20:349][951]AssetCheck: New page: Asset Save: FishingSpot_Text
+[2023.11.21-00.10.20:349][951]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingSpot_Text.FishingSpot_Text
+[2023.11.21-00.10.20:629][969]BlueprintLog: New page: Compile FishingSpot_Text
+[2023.11.21-00.10.20:679][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.21-00.10.20:688][969]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.10.20:707][969]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.10.22:958][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.10.23:003][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingSpot_Text" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingSpot_Text.uasset" SILENT=true
+[2023.11.21-00.10.23:006][133]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingSpot_Text
+[2023.11.21-00.10.23:007][133]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingSpot_Text2DDC7C374F4F88ADD41D66BCEDC2574A.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingSpot_Text.uasset'
+[2023.11.21-00.10.23:012][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 1.68 sec)
+[2023.11.21-00.10.23:013][133]AssetCheck: New page: Asset Save: FishingSpot_Text
+[2023.11.21-00.10.23:013][133]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingSpot_Text.FishingSpot_Text
+[2023.11.21-00.10.24:445][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.10.24:491][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.10.24:499][246]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.10.24:500][246]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI07142D4B4961C247A4FE70BFF8946265.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.10.24:506][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.74 sec)
+[2023.11.21-00.10.24:507][246]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.10.24:507][246]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.10.54:016][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.10.54:061][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.10.54:070][595]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.10.54:070][595]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIF745F5AE41F96BDB0B852C944AF38CED.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.10.54:076][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.80 sec)
+[2023.11.21-00.10.54:077][595]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.10.54:077][595]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.11.05:344][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.11.05:374][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.11.05:383][486]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.11.05:384][486]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI62FFFF2B46C7DA0073D98B8FCC4E8722.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.11.05:388][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.85 sec)
+[2023.11.21-00.11.05:390][486]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.11.05:390][486]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.11.14:682][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.11.14:725][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.11.14:734][117]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.11.14:735][117]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIEAA5BFA14BB9163DC978528677B760AD.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.11.14:740][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 1.91 sec)
+[2023.11.21-00.11.14:742][117]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.11.14:742][117]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.11.15:480][161]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.21-00.11.15:515][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.11.21-00.11.15:523][161]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.11.15:528][161]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.11.23:050][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.11.23:087][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.11.23:096][729]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.11.23:097][729]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI5927EDC14385622F606C4C8EF07E389A.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.11.23:103][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 1.96 sec)
+[2023.11.21-00.11.23:105][729]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.11.23:105][729]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.11.36:635][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.11.36:680][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.11.36:689][740]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.11.36:690][740]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI0EBE61D74FB345058082A5AA34932F31.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.11.36:695][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 2.02 sec)
+[2023.11.21-00.11.36:696][740]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.11.36:696][740]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.11.43:643][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.11.43:682][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.11.43:692][253]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.11.43:692][253]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI88C454F2499FABAA7DE0199154845544.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.11.43:698][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 2.07 sec)
+[2023.11.21-00.11.43:700][253]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.11.43:700][253]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.12.42:189][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.12.42:238][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.12.42:266][739]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.12.42:267][739]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI172C4D304C53BFDF7F30BC9F0F294E90.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.12.42:273][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 2.16 sec)
+[2023.11.21-00.12.42:274][739]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.12.42:274][739]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.12.43:261][818]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.21-00.12.43:299][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.21-00.12.43:303][818]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.12.43:315][818]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.12.47:602][156]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.21-00.12.47:611][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.21-00.12.47:611][156]PIE: New page: PIE session: practice (22/11/2023, 2:12:47 am)
+[2023.11.21-00.12.47:611][156]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_practice
+[2023.11.21-00.12.47:613][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002263s)
+[2023.11.21-00.12.47:613][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/practice.practice to /Game/Levels/UEDPIE_0_practice.practice (0.002295s)
+[2023.11.21-00.12.47:628][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.21-00.12.47:632][156]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.21-00.12.47:632][156]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.21-00.12.47:633][156]LogAIModule: Creating AISystem for world practice
+[2023.11.21-00.12.47:633][156]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2023.11.21-00.12.47:633][156]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.11.21-00.12.47:633][156]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.21-00.12.47:633][156]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.21-00.12.47:633][156]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.21-00.12.47:633][156]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.21-00.12.47:633][156]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.21-00.12.47:633][156]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.21-00.12.47:633][156]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.21-00.12.47:633][156]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.21-00.12.47:634][156]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.21-00.12.47:634][156]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.21-00.12.47:634][156]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.21-00.12.47:635][156]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.21-00.12.47:659][156]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.21-00.12.47:659][156]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.21-00.12.47:659][156]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.21-00.12.47:659][156]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.21-00.12.47:660][156]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.11.21-00.12.47:660][156]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.11.21-00.12.47:661][156]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.11.21-00.12.47:661][156]LogInit: FAudioDevice initialized with ID 9.
+[2023.11.21-00.12.47:661][156]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.11.21-00.12.47:661][156]LogAudio: Display: Audio Device (ID: 9) registered with world 'practice'.
+[2023.11.21-00.12.47:661][156]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.11.21-00.12.47:664][156]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.21-00.12.47:664][156]LogWorld: Bringing World /Game/Levels/UEDPIE_0_practice.practice up for play (max tick rate 0) at 2023.11.21-13.12.47
+[2023.11.21-00.12.47:665][156]LogWorld: Bringing up level for play took: 0.000675
+[2023.11.21-00.12.47:666][156]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.11.21-00.12.47:668][156]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.21-00.12.47:668][156]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.21-00.12.47:668][156]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.21-00.12.47:669][156]PIE: Server logged in
+[2023.11.21-00.12.47:670][156]PIE: Play in editor total start time 0.059 seconds.
+[2023.11.21-00.12.48:244][190]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.21-00.12.48:244][190]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.21-00.12.49:861][334]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.21-00.12.49:861][334]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.21-00.12.49:861][334]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.21-00.12.54:507][770]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.21-00.12.54:507][770]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.21-00.12.55:218][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.21-00.12.55:218][831]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_practice
+[2023.11.21-00.12.55:218][831]LogWorld: UWorld::CleanupWorld for practice, bSessionEnded=true, bCleanupResources=true
+[2023.11.21-00.12.55:219][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.21-00.12.55:222][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.21-00.12.55:227][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.21-00.12.55:241][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.21-00.12.55:242][831]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.11.21-00.12.55:242][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.21-00.12.55:243][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.21-00.12.55:248][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.21-00.12.55:250][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.11.21-00.12.55:280][832]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.11.21-00.13.06:695][655]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.21-00.13.06:722][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.21-00.13.06:727][655]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.13.06:788][655]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.13.07:379][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.13.07:410][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.13.07:421][685]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.13.07:421][685]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIE57C0A0A421878794D6A3FB37DD574F5.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.13.07:427][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 2.20 sec)
+[2023.11.21-00.13.07:428][685]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.13.07:429][685]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.13.17:415][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.13.17:448][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.13.17:459][356]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.13.17:460][356]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI7F4C128F4933878F6F3E319BDCF89CEF.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.13.17:466][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 2.26 sec)
+[2023.11.21-00.13.17:467][356]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.13.17:467][356]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.13.17:795][379]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.21-00.13.17:829][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.21-00.13.17:836][379]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.13.17:898][379]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.13.19:808][522]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.21-00.13.19:817][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.21-00.13.19:817][522]PIE: New page: PIE session: practice (22/11/2023, 2:13:19 am)
+[2023.11.21-00.13.19:848][522]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_practice
+[2023.11.21-00.13.19:851][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002071s)
+[2023.11.21-00.13.19:851][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/practice.practice to /Game/Levels/UEDPIE_0_practice.practice (0.002109s)
+[2023.11.21-00.13.19:865][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.11.21-00.13.19:870][522]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.21-00.13.19:871][522]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.21-00.13.19:871][522]LogAIModule: Creating AISystem for world practice
+[2023.11.21-00.13.19:871][522]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2023.11.21-00.13.19:871][522]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.11.21-00.13.19:871][522]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.21-00.13.19:871][522]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.21-00.13.19:871][522]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.21-00.13.19:871][522]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.21-00.13.19:871][522]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.21-00.13.19:871][522]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.21-00.13.19:871][522]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.21-00.13.19:871][522]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.21-00.13.19:872][522]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.21-00.13.19:872][522]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.21-00.13.19:872][522]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.21-00.13.19:873][522]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.21-00.13.19:894][522]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.21-00.13.19:894][522]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.21-00.13.19:894][522]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.21-00.13.19:894][522]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.21-00.13.19:895][522]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.11.21-00.13.19:895][522]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.11.21-00.13.19:896][522]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.11.21-00.13.19:896][522]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.11.21-00.13.19:897][522]LogInit: FAudioDevice initialized with ID 10.
+[2023.11.21-00.13.19:897][522]LogAudio: Display: Audio Device (ID: 10) registered with world 'practice'.
+[2023.11.21-00.13.19:897][522]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.11.21-00.13.19:899][522]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.21-00.13.19:900][522]LogWorld: Bringing World /Game/Levels/UEDPIE_0_practice.practice up for play (max tick rate 0) at 2023.11.21-13.13.19
+[2023.11.21-00.13.19:900][522]LogWorld: Bringing up level for play took: 0.000677
+[2023.11.21-00.13.19:901][522]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.11.21-00.13.19:903][522]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.21-00.13.19:903][522]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.21-00.13.19:903][522]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.21-00.13.19:904][522]PIE: Server logged in
+[2023.11.21-00.13.19:905][522]PIE: Play in editor total start time 0.089 seconds.
+[2023.11.21-00.13.20:776][585]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.21-00.13.20:776][585]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.21-00.13.22:638][754]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.21-00.13.22:638][754]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.21-00.13.22:638][754]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.21-00.13.25:288][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.21-00.13.25:288][993]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_practice
+[2023.11.21-00.13.25:288][993]LogWorld: UWorld::CleanupWorld for practice, bSessionEnded=true, bCleanupResources=true
+[2023.11.21-00.13.25:288][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.21-00.13.25:291][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.21-00.13.25:296][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.21-00.13.25:311][993]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.21-00.13.25:311][993]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.11.21-00.13.25:311][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.21-00.13.25:312][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.21-00.13.25:317][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.21-00.13.25:319][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.21-00.13.25:376][995]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.11.21-00.13.33:811][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.13.33:856][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.13.33:867][478]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.13.33:868][478]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI30ED940247018FB3D22C88959234D3A5.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.13.33:873][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 2.32 sec)
+[2023.11.21-00.13.33:875][478]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.13.33:875][478]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.13.34:650][533]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.21-00.13.34:683][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.21-00.13.34:689][533]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.13.34:755][533]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.13.37:362][733]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.21-00.13.37:371][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.21-00.13.37:371][733]PIE: New page: PIE session: practice (22/11/2023, 2:13:37 am)
+[2023.11.21-00.13.37:408][733]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_practice
+[2023.11.21-00.13.37:410][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002100s)
+[2023.11.21-00.13.37:410][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/practice.practice to /Game/Levels/UEDPIE_0_practice.practice (0.002136s)
+[2023.11.21-00.13.37:424][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.11.21-00.13.37:429][733]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.21-00.13.37:429][733]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.21-00.13.37:430][733]LogAIModule: Creating AISystem for world practice
+[2023.11.21-00.13.37:430][733]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2023.11.21-00.13.37:430][733]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.11.21-00.13.37:430][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.21-00.13.37:430][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.21-00.13.37:430][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.21-00.13.37:430][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.21-00.13.37:430][733]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.21-00.13.37:430][733]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.21-00.13.37:430][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.21-00.13.37:430][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.21-00.13.37:430][733]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.21-00.13.37:430][733]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.21-00.13.37:430][733]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.21-00.13.37:432][733]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.21-00.13.37:453][733]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.21-00.13.37:453][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.21-00.13.37:453][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.21-00.13.37:453][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.21-00.13.37:454][733]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.11.21-00.13.37:454][733]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.11.21-00.13.37:456][733]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.11.21-00.13.37:456][733]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.11.21-00.13.37:456][733]LogInit: FAudioDevice initialized with ID 11.
+[2023.11.21-00.13.37:456][733]LogAudio: Display: Audio Device (ID: 11) registered with world 'practice'.
+[2023.11.21-00.13.37:456][733]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.11.21-00.13.37:458][733]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.21-00.13.37:459][733]LogWorld: Bringing World /Game/Levels/UEDPIE_0_practice.practice up for play (max tick rate 0) at 2023.11.21-13.13.37
+[2023.11.21-00.13.37:459][733]LogWorld: Bringing up level for play took: 0.000641
+[2023.11.21-00.13.37:460][733]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.11.21-00.13.37:463][733]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.21-00.13.37:463][733]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.21-00.13.37:463][733]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.21-00.13.37:464][733]PIE: Server logged in
+[2023.11.21-00.13.37:464][733]PIE: Play in editor total start time 0.094 seconds.
+[2023.11.21-00.13.38:609][816]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.21-00.13.38:609][816]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.21-00.13.40:118][952]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.21-00.13.40:118][952]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.21-00.13.40:118][952]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.21-00.13.44:712][376]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.21-00.13.44:712][376]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.21-00.13.45:328][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.21-00.13.45:328][430]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_practice
+[2023.11.21-00.13.45:328][430]LogWorld: UWorld::CleanupWorld for practice, bSessionEnded=true, bCleanupResources=true
+[2023.11.21-00.13.45:328][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.21-00.13.45:331][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.21-00.13.45:337][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.21-00.13.45:351][430]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.21-00.13.45:352][430]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.11.21-00.13.45:352][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.21-00.13.45:353][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.21-00.13.45:358][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.21-00.13.45:360][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.11.21-00.13.45:424][432]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.11.21-00.14.15:680][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.14.15:717][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.14.15:727][827]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.14.15:728][827]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI600232A0458B32957A53199A12843CAF.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.14.15:735][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 2.37 sec)
+[2023.11.21-00.14.15:737][827]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.14.15:737][827]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.14.16:948][931]LogEditorTransaction: Undo Move Node
+[2023.11.21-00.14.17:769][972]LogEditorTransaction: Undo Move Node
+[2023.11.21-00.14.18:149][  0]LogEditorTransaction: Undo Create Pin Link
+[2023.11.21-00.14.18:541][ 29]LogEditorTransaction: Undo Add Node
+[2023.11.21-00.14.18:957][ 60]LogEditorTransaction: Undo Move Node
+[2023.11.21-00.14.19:340][ 88]LogEditorTransaction: Undo Add Node
+[2023.11.21-00.14.46:641][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.14.46:682][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.14.46:694][276]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.14.46:694][276]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI5D30A9E04624DF6B7E4C468097D4E535.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.14.46:700][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 2.43 sec)
+[2023.11.21-00.14.46:701][276]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.14.46:701][276]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.14.48:713][442]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.21-00.14.48:750][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.21-00.14.48:756][442]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.14.48:770][442]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.14.55:934][971]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.55:935][971]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.55:938][971]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:019][973]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:073][974]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:082][974]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:145][976]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:155][976]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:166][977]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:169][977]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:220][978]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:241][979]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:244][979]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:296][980]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:305][980]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:376][982]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:390][983]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:462][985]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:521][986]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:594][988]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.14.56:607][989]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.21-00.15.08:625][870]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.21-00.15.08:652][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.11.21-00.15.08:658][870]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.15.08:737][870]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.15.08:953][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.15.08:980][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.15.08:991][871]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.15.08:991][871]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI22841D6240F2D6E714B1FAA8CF15EADE.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.15.08:998][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 2.48 sec)
+[2023.11.21-00.15.08:999][871]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.15.08:999][871]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.21-00.15.11:486][ 84]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.21-00.15.11:494][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.21-00.15.11:494][ 84]PIE: New page: PIE session: practice (22/11/2023, 2:15:11 am)
+[2023.11.21-00.15.11:528][ 84]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_practice
+[2023.11.21-00.15.11:530][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002167s)
+[2023.11.21-00.15.11:530][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/practice.practice to /Game/Levels/UEDPIE_0_practice.practice (0.002206s)
+[2023.11.21-00.15.11:545][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.21-00.15.11:550][ 84]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.21-00.15.11:551][ 84]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.21-00.15.11:551][ 84]LogAIModule: Creating AISystem for world practice
+[2023.11.21-00.15.11:551][ 84]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2023.11.21-00.15.11:551][ 84]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.11.21-00.15.11:551][ 84]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.21-00.15.11:551][ 84]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.21-00.15.11:551][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.21-00.15.11:551][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.21-00.15.11:551][ 84]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.21-00.15.11:551][ 84]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.21-00.15.11:551][ 84]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.21-00.15.11:551][ 84]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.21-00.15.11:552][ 84]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.21-00.15.11:552][ 84]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.21-00.15.11:552][ 84]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.21-00.15.11:553][ 84]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.21-00.15.11:577][ 84]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.21-00.15.11:577][ 84]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.21-00.15.11:577][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.21-00.15.11:577][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.21-00.15.11:577][ 84]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.11.21-00.15.11:577][ 84]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.11.21-00.15.11:579][ 84]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.11.21-00.15.11:579][ 84]LogInit: FAudioDevice initialized with ID 12.
+[2023.11.21-00.15.11:579][ 84]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.11.21-00.15.11:579][ 84]LogAudio: Display: Audio Device (ID: 12) registered with world 'practice'.
+[2023.11.21-00.15.11:579][ 84]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.11.21-00.15.11:582][ 84]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.21-00.15.11:582][ 84]LogWorld: Bringing World /Game/Levels/UEDPIE_0_practice.practice up for play (max tick rate 0) at 2023.11.21-13.15.11
+[2023.11.21-00.15.11:582][ 84]LogWorld: Bringing up level for play took: 0.000608
+[2023.11.21-00.15.11:584][ 84]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.11.21-00.15.11:586][ 84]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.21-00.15.11:586][ 84]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.21-00.15.11:586][ 84]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.21-00.15.11:587][ 84]PIE: Server logged in
+[2023.11.21-00.15.11:588][ 84]PIE: Play in editor total start time 0.094 seconds.
+[2023.11.21-00.15.12:727][170]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.21-00.15.12:727][170]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.21-00.15.14:761][353]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.21-00.15.14:761][353]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.21-00.15.14:761][353]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.21-00.15.19:937][837]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.21-00.15.19:937][837]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.21-00.15.20:889][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.21-00.15.20:889][921]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_practice
+[2023.11.21-00.15.20:889][921]LogWorld: UWorld::CleanupWorld for practice, bSessionEnded=true, bCleanupResources=true
+[2023.11.21-00.15.20:889][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.21-00.15.20:892][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.21-00.15.20:897][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.21-00.15.20:912][921]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.21-00.15.20:912][921]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.11.21-00.15.20:912][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.11.21-00.15.20:913][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.11.21-00.15.20:918][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.21-00.15.20:920][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.11.21-00.15.20:983][923]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.11.21-00.15.26:276][301]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.21-00.15.26:301][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.21-00.15.26:308][301]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.15.26:370][301]PIE: Warning: AttachTo: '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.DefaultSceneRoot' is not static  (in blueprint "FishSpot_Bp"), cannot attach '/Game/Levels/practice.practice:PersistentLevel.FishSpot_Bp_C_3.Cube1' which is static to it. Aborting.
+[2023.11.21-00.15.26:907][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.15.26:944][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.21-00.15.26:956][332]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.21-00.15.26:956][332]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UICB723D1C4129248AD5C92ABC0E5FD1F5.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.21-00.15.26:962][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 2.53 sec)
+[2023.11.21-00.15.26:964][332]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.21-00.15.26:964][332]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
