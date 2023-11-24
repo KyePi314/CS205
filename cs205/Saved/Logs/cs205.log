@@ -6090,3 +6090,408 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.24-11.26.55:091][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.13 sec (total: 17.4 sec)
 [2023.11.24-11.26.55:110][245]AssetCheck: New page: Asset Save: CS205
 [2023.11.24-11.26.55:111][245]LogContentValidation: Display: Validating /Script/Engine.World /Game/CS205.CS205
+[2023.11.24-11.36.54:254][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.11.24-11.36.54:257][372]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CS205' took 0.065
+[2023.11.24-11.36.54:257][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fantastic_Village_Pack/Girl01_Brows_MAT1] ([1] browsable assets)...
+[2023.11.24-11.36.54:257][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fantastic_Village_Pack/Girl01_Brows_MAT1]
+[2023.11.24-11.36.54:261][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fantastic_Village_Pack/Girl01_Brows_MAT1_Auto3
+[2023.11.24-11.36.54:261][372]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/Girl01_Brows_MAT1_Auto3663E28FA4826D779B7E4C0A03847B666.tmp' to '../../../../GroupProject/CS205/cs205/Saved/Autosaves/Game/Fantastic_Village_Pack/Girl01_Brows_MAT1_Auto3.uasset'
+[2023.11.24-11.36.54:262][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fantastic_Village_Pack/Girl01_FacialAnimMap] ([1] browsable assets)...
+[2023.11.24-11.36.54:262][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fantastic_Village_Pack/Girl01_FacialAnimMap]
+[2023.11.24-11.36.54:317][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fantastic_Village_Pack/Girl01_FacialAnimMap_Auto3
+[2023.11.24-11.36.54:317][372]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/Girl01_FacialAnimMap_Auto339052A214C5E97D5AFD86D9E41BD9E59.tmp' to '../../../../GroupProject/CS205/cs205/Saved/Autosaves/Game/Fantastic_Village_Pack/Girl01_FacialAnimMap_Auto3.uasset'
+[2023.11.24-11.36.54:318][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fantastic_Village_Pack/Girl01_Eyes_MAT1] ([1] browsable assets)...
+[2023.11.24-11.36.54:319][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fantastic_Village_Pack/Girl01_Eyes_MAT1]
+[2023.11.24-11.36.54:322][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fantastic_Village_Pack/Girl01_Eyes_MAT1_Auto3
+[2023.11.24-11.36.54:322][372]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/Girl01_Eyes_MAT1_Auto312EF1095477899073F274887E23FCD73.tmp' to '../../../../GroupProject/CS205/cs205/Saved/Autosaves/Game/Fantastic_Village_Pack/Girl01_Eyes_MAT1_Auto3.uasset'
+[2023.11.24-11.36.54:324][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fantastic_Village_Pack/Girl01_FacialAnimMap_ncl1_1] ([1] browsable assets)...
+[2023.11.24-11.36.54:324][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fantastic_Village_Pack/Girl01_FacialAnimMap_ncl1_1]
+[2023.11.24-11.36.54:381][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fantastic_Village_Pack/Girl01_FacialAnimMap_ncl1_1_Auto3
+[2023.11.24-11.36.54:381][372]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/Girl01_FacialAnimMap_ncl1_1_Auto819434C94FEF95C73D79AB83920B8CB8.tmp' to '../../../../GroupProject/CS205/cs205/Saved/Autosaves/Game/Fantastic_Village_Pack/Girl01_FacialAnimMap_ncl1_1_Auto3.uasset'
+[2023.11.24-11.36.54:383][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fantastic_Village_Pack/Girl01_Mouth_MAT1] ([1] browsable assets)...
+[2023.11.24-11.36.54:383][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fantastic_Village_Pack/Girl01_Mouth_MAT1]
+[2023.11.24-11.36.54:389][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fantastic_Village_Pack/Girl01_Mouth_MAT1_Auto3
+[2023.11.24-11.36.54:389][372]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/Girl01_Mouth_MAT1_Auto3DCDC462A4BFD4F0920AB84AF07337273.tmp' to '../../../../GroupProject/CS205/cs205/Saved/Autosaves/Game/Fantastic_Village_Pack/Girl01_Mouth_MAT1_Auto3.uasset'
+[2023.11.24-11.36.54:391][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fantastic_Village_Pack/Girl01_FacialAnimMap_ncl1_2] ([1] browsable assets)...
+[2023.11.24-11.36.54:391][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fantastic_Village_Pack/Girl01_FacialAnimMap_ncl1_2]
+[2023.11.24-11.36.54:448][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fantastic_Village_Pack/Girl01_FacialAnimMap_ncl1_2_Auto3
+[2023.11.24-11.36.54:448][372]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/Girl01_FacialAnimMap_ncl1_2_AutoF26845D441A1FC13E8E8C48017AEB3CA.tmp' to '../../../../GroupProject/CS205/cs205/Saved/Autosaves/Game/Fantastic_Village_Pack/Girl01_FacialAnimMap_ncl1_2_Auto3.uasset'
+[2023.11.24-11.36.54:449][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fantastic_Village_Pack/Girl01_Body_MAT1] ([1] browsable assets)...
+[2023.11.24-11.36.54:449][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fantastic_Village_Pack/Girl01_Body_MAT1]
+[2023.11.24-11.36.54:452][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fantastic_Village_Pack/Girl01_Body_MAT1_Auto3
+[2023.11.24-11.36.54:452][372]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/Girl01_Body_MAT1_Auto3229B03A4409916725B374B8A444FEEC5.tmp' to '../../../../GroupProject/CS205/cs205/Saved/Autosaves/Game/Fantastic_Village_Pack/Girl01_Body_MAT1_Auto3.uasset'
+[2023.11.24-11.36.54:454][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fantastic_Village_Pack/Girl01_diffuse] ([1] browsable assets)...
+[2023.11.24-11.36.54:454][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fantastic_Village_Pack/Girl01_diffuse]
+[2023.11.24-11.36.54:463][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fantastic_Village_Pack/Girl01_diffuse_Auto3
+[2023.11.24-11.36.54:464][372]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/Girl01_diffuse_Auto347268C4C4D0208B6C2E085A231B4EBF6.tmp' to '../../../../GroupProject/CS205/cs205/Saved/Autosaves/Game/Fantastic_Village_Pack/Girl01_diffuse_Auto3.uasset'
+[2023.11.24-11.36.54:465][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fantastic_Village_Pack/Girl01_spec] ([1] browsable assets)...
+[2023.11.24-11.36.54:465][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fantastic_Village_Pack/Girl01_spec]
+[2023.11.24-11.36.54:470][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fantastic_Village_Pack/Girl01_spec_Auto3
+[2023.11.24-11.36.54:470][372]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/Girl01_spec_Auto35077FD9F44B15FD5719170B7DA90E278.tmp' to '../../../../GroupProject/CS205/cs205/Saved/Autosaves/Game/Fantastic_Village_Pack/Girl01_spec_Auto3.uasset'
+[2023.11.24-11.36.54:471][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fantastic_Village_Pack/Girl01_normal] ([1] browsable assets)...
+[2023.11.24-11.36.54:471][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fantastic_Village_Pack/Girl01_normal]
+[2023.11.24-11.36.54:481][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fantastic_Village_Pack/Girl01_normal_Auto3
+[2023.11.24-11.36.54:481][372]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/Girl01_normal_Auto36DFE9ADB4B168AB9826088B16704A662.tmp' to '../../../../GroupProject/CS205/cs205/Saved/Autosaves/Game/Fantastic_Village_Pack/Girl01_normal_Auto3.uasset'
+[2023.11.24-11.36.54:483][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fantastic_Village_Pack/Claire_Skeleton] ([1] browsable assets)...
+[2023.11.24-11.36.54:483][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fantastic_Village_Pack/Claire_Skeleton]
+[2023.11.24-11.36.54:489][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fantastic_Village_Pack/Claire_Skeleton_Auto3
+[2023.11.24-11.36.54:489][372]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/Claire_Skeleton_Auto3B68D2D394E54AB889B223E8E2CE180AA.tmp' to '../../../../GroupProject/CS205/cs205/Saved/Autosaves/Game/Fantastic_Village_Pack/Claire_Skeleton_Auto3.uasset'
+[2023.11.24-11.36.54:490][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fantastic_Village_Pack/Claire_PhysicsAsset] ([1] browsable assets)...
+[2023.11.24-11.36.54:490][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fantastic_Village_Pack/Claire_PhysicsAsset]
+[2023.11.24-11.36.54:504][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fantastic_Village_Pack/Claire_PhysicsAsset_Auto3
+[2023.11.24-11.36.54:504][372]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/Claire_PhysicsAsset_Auto31902DEF14A751F0F27AD919C92A54A7E.tmp' to '../../../../GroupProject/CS205/cs205/Saved/Autosaves/Game/Fantastic_Village_Pack/Claire_PhysicsAsset_Auto3.uasset'
+[2023.11.24-11.36.54:505][372]LogFileHelpers: Auto-saving content packages took 0.249
+[2023.11.24-12.10.28:765][612]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.24-12.10.28:818][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.24-12.10.28:828][612]PIE: New page: PIE session: CS205 (25/11/2023, 2:10:28 pm)
+[2023.11.24-12.10.28:844][612]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.24-12.10.29:349][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.503532s)
+[2023.11.24-12.10.29:349][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.505628s)
+[2023.11.24-12.10.29:579][612]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2023.11.24-12.10.29:601][612]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.24-12.10.29:628][612]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.24-12.10.29:654][612]LogAIModule: Creating AISystem for world CS205
+[2023.11.24-12.10.29:677][612]LogPlayLevel: PIE: World Init took: (0.087653s)
+[2023.11.24-12.10.29:682][612]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.11.24-12.10.29:684][612]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.24-12.10.29:684][612]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.24-12.10.29:684][612]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.24-12.10.29:684][612]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.24-12.10.29:684][612]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.24-12.10.29:684][612]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.24-12.10.29:684][612]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.24-12.10.29:684][612]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.24-12.10.29:693][612]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.24-12.10.29:693][612]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.24-12.10.29:693][612]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.24-12.10.29:732][612]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.24-12.10.29:782][612]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.11.24-12.10.29:790][612]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.24-12.10.29:790][612]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.24-12.10.29:791][612]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.24-12.10.29:810][612]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.11.24-12.10.29:811][612]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.11.24-12.10.29:815][612]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.11.24-12.10.29:815][612]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.11.24-12.10.29:816][612]LogInit: FAudioDevice initialized with ID 9.
+[2023.11.24-12.10.29:817][612]LogAudio: Display: Audio Device (ID: 9) registered with world 'CS205'.
+[2023.11.24-12.10.29:818][612]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.11.24-12.10.29:893][612]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.24-12.10.30:222][612]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 60) at 2023.11.25-01.10.30
+[2023.11.24-12.10.30:266][612]LogWorld: Bringing up level for play took: 0.368765
+[2023.11.24-12.10.30:294][612]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.11.24-12.10.30:425][612]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.24-12.10.30:426][612]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.24-12.10.30:426][612]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.24-12.10.30:452][612]PIE: Server logged in
+[2023.11.24-12.10.30:454][612]PIE: Play in editor total start time 1.648 seconds.
+[2023.11.24-12.10.32:744][632]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.24-12.10.32:744][632]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.24-12.10.40:081][846]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.24-12.10.40:081][846]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.24-12.10.42:701][922]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.24-12.10.42:701][922]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.24-12.10.47:010][ 49]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.24-12.10.47:010][ 49]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.24-12.10.47:858][ 73]LogBlueprintUserMessages: [NPC_Dialogue_C_0] clicked
+[2023.11.24-12.10.48:031][ 78]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.24-12.10.48:031][ 78]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.24-12.10.52:281][199]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.24-12.10.52:281][199]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.24-12.10.53:559][229]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.24-12.10.53:559][229]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.24-12.11.44:022][ 82]LogDerivedDataCache: C:/Users/Oxillious/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.555 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7919 files in 9612 folders with total size 611 MiB.
+[2023.11.24-12.11.45:475][134]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.24-12.11.45:475][134]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.24-12.11.48:310][236]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.24-12.11.48:310][236]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.24-12.11.48:812][254]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.24-12.11.48:812][254]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.24-12.11.58:308][597]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.24-12.11.58:308][597]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.24-12.12.29:979][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.24-12.12.29:980][759]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.24-12.12.29:992][759]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.24-12.12.30:026][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.24-12.12.30:059][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.24-12.12.30:067][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.24-12.12.30:128][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.24-12.12.30:152][759]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.11.24-12.12.30:156][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.24-12.12.30:165][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.24-12.12.30:240][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.24-12.12.30:501][760]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.11.24-12.12.38:654][ 33]LogViewport: Scene viewport resized to 482x284, mode Windowed.
+[2023.11.24-12.13.23:245][997]LogViewport: Scene viewport resized to 482x284, mode Windowed.
+[2023.11.24-12.13.44:149][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.24-12.13.44:266][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CS205" FILE="../../../../GroupProject/CS205/cs205/Content/CS205.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.24-12.13.44:368][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.11.24-12.13.45:332][422]LogSavePackage: Moving output files for package: /Game/CS205
+[2023.11.24-12.13.45:333][422]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/CS2058D4BC1B44D4DE262F7DE8D8714A9891F.tmp' to '../../../../GroupProject/CS205/cs205/Content/CS205.umap'
+[2023.11.24-12.13.45:357][422]LogFileHelpers: Saving map 'CS205' took 1.094
+[2023.11.24-12.13.45:370][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.22 sec (total: 18.7 sec)
+[2023.11.24-12.13.45:388][422]AssetCheck: New page: Asset Save: CS205
+[2023.11.24-12.13.45:388][422]LogContentValidation: Display: Validating /Script/Engine.World /Game/CS205.CS205
+[2023.11.24-12.13.46:171][440]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.24-12.13.46:190][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.24-12.13.46:190][440]PIE: New page: PIE session: CS205 (25/11/2023, 2:13:46 pm)
+[2023.11.24-12.13.46:190][440]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.24-12.13.46:402][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.211873s)
+[2023.11.24-12.13.46:403][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.211968s)
+[2023.11.24-12.13.46:448][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.11.24-12.13.46:450][440]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.24-12.13.46:450][440]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.24-12.13.46:451][440]LogAIModule: Creating AISystem for world CS205
+[2023.11.24-12.13.46:452][440]LogPlayLevel: PIE: World Init took: (0.002980s)
+[2023.11.24-12.13.46:453][440]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.11.24-12.13.46:453][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.24-12.13.46:454][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.24-12.13.46:454][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.24-12.13.46:454][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.24-12.13.46:454][440]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.24-12.13.46:454][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.24-12.13.46:454][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.24-12.13.46:454][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.24-12.13.46:454][440]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.24-12.13.46:455][440]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.24-12.13.46:455][440]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.24-12.13.46:459][440]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.24-12.13.46:507][440]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.11.24-12.13.46:508][440]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.24-12.13.46:508][440]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.24-12.13.46:508][440]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.24-12.13.46:509][440]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.11.24-12.13.46:509][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.11.24-12.13.46:512][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.11.24-12.13.46:512][440]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.11.24-12.13.46:512][440]LogInit: FAudioDevice initialized with ID 10.
+[2023.11.24-12.13.46:512][440]LogAudio: Display: Audio Device (ID: 10) registered with world 'CS205'.
+[2023.11.24-12.13.46:512][440]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.11.24-12.13.46:517][440]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.24-12.13.46:641][440]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 60) at 2023.11.25-01.13.46
+[2023.11.24-12.13.46:650][440]LogWorld: Bringing up level for play took: 0.131984
+[2023.11.24-12.13.46:655][440]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.11.24-12.13.46:662][440]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.24-12.13.46:662][440]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.24-12.13.46:662][440]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.24-12.13.46:665][440]PIE: Server logged in
+[2023.11.24-12.13.46:666][440]PIE: Play in editor total start time 0.476 seconds.
+[2023.11.24-12.13.49:292][476]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.24-12.13.49:292][476]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.24-12.14.01:581][832]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.24-12.14.01:582][832]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.24-12.14.05:596][943]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.24-12.14.05:596][943]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.24-12.14.13:114][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.24-12.14.13:114][165]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.24-12.14.13:115][165]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.24-12.14.13:176][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.24-12.14.13:181][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.24-12.14.13:187][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.24-12.14.13:253][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.24-12.14.13:269][165]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.11.24-12.14.13:269][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.24-12.14.13:373][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.24-12.14.13:409][165]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2023.11.24-12.14.13:810][166]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.11.24-12.14.13:827][166]LogViewport: Scene viewport resized to 482x284, mode Windowed.
+[2023.11.24-12.14.20:563][276]LogViewport: Scene viewport resized to 1170x900, mode Windowed.
+[2023.11.24-12.14.32:035][692]Cmd: TRANSACTION UNDO
+[2023.11.24-12.14.32:035][692]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.11.24-12.14.43:739][ 93]Cmd: TRANSACTION UNDO
+[2023.11.24-12.14.43:739][ 93]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.11.24-12.14.43:777][ 93]LogTexture: Display: Building textures: /Game/CS205.CS205:PersistentLevel.Landscape_0.Texture2D_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.11.24-12.14.44:987][118]Cmd: TRANSACTION UNDO
+[2023.11.24-12.14.44:987][118]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.11.24-12.14.45:037][118]LogTexture: Display: Building textures: /Game/CS205.CS205:PersistentLevel.Landscape_0.Texture2D_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.11.24-12.14.54:407][398]Cmd: TRANSACTION UNDO
+[2023.11.24-12.14.54:407][398]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.11.24-12.14.54:458][398]LogTexture: Display: Building textures: /Game/CS205.CS205:PersistentLevel.Landscape_0.Texture2D_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.11.24-12.14.55:272][415]Cmd: TRANSACTION UNDO
+[2023.11.24-12.14.55:273][415]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.11.24-12.14.55:318][415]LogTexture: Display: Building textures: /Game/CS205.CS205:PersistentLevel.Landscape_0.Texture2D_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.11.24-12.14.56:051][435]Cmd: TRANSACTION UNDO
+[2023.11.24-12.14.56:051][435]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.11.24-12.14.56:091][435]LogTexture: Display: Building textures: /Game/CS205.CS205:PersistentLevel.Landscape_0.Texture2D_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.11.24-12.15.20:468][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.24-12.15.20:525][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CS205" FILE="../../../../GroupProject/CS205/cs205/Content/CS205.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.24-12.15.20:598][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.24-12.15.20:615][260]LogTexture: Display: Building textures: /Game/CS205.CS205:PersistentLevel.Landscape_0.Texture2D_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.11.24-12.15.21:523][260]LogSavePackage: Moving output files for package: /Game/CS205
+[2023.11.24-12.15.21:523][260]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/CS2058A136B2448DC8099BCD941A8A18B74CA.tmp' to '../../../../GroupProject/CS205/cs205/Content/CS205.umap'
+[2023.11.24-12.15.21:549][260]LogFileHelpers: Saving map 'CS205' took 1.027
+[2023.11.24-12.15.21:563][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.09 sec (total: 19.8 sec)
+[2023.11.24-12.15.21:575][260]AssetCheck: New page: Asset Save: CS205
+[2023.11.24-12.15.21:575][260]LogContentValidation: Display: Validating /Script/Engine.World /Game/CS205.CS205
+[2023.11.24-12.21.49:945][536]LogViewport: Scene viewport resized to 1526x900, mode Windowed.
+[2023.11.24-12.22.07:608][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.24-12.22.07:673][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CS205" FILE="../../../../GroupProject/CS205/cs205/Content/CS205.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.24-12.22.07:748][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.11.24-12.22.08:669][ 95]LogSavePackage: Moving output files for package: /Game/CS205
+[2023.11.24-12.22.08:670][ 95]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/CS20568609C554716C4EC9B4A83863B4F7C4B.tmp' to '../../../../GroupProject/CS205/cs205/Content/CS205.umap'
+[2023.11.24-12.22.08:693][ 95]LogFileHelpers: Saving map 'CS205' took 1.023
+[2023.11.24-12.22.08:717][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.10 sec (total: 20.9 sec)
+[2023.11.24-12.22.08:731][ 95]AssetCheck: New page: Asset Save: CS205
+[2023.11.24-12.22.08:731][ 95]LogContentValidation: Display: Validating /Script/Engine.World /Game/CS205.CS205
+[2023.11.24-12.22.19:472][459]Cmd: EDIT COPY
+[2023.11.24-12.22.19:796][470]Cmd: EDIT PASTE
+[2023.11.24-12.23.13:549][176]Cmd: EDIT COPY
+[2023.11.24-12.23.13:665][178]Cmd: EDIT PASTE
+[2023.11.24-12.23.54:872][178]Cmd: EDIT COPY
+[2023.11.24-12.23.55:092][184]Cmd: EDIT PASTE
+[2023.11.24-12.24.20:486][ 42]Cmd: EDIT COPY
+[2023.11.24-12.24.20:746][ 47]Cmd: EDIT PASTE
+[2023.11.24-12.24.44:994][859]Cmd: TRANSACTION UNDO
+[2023.11.24-12.24.44:994][859]LogEditorTransaction: Undo Move Elements
+[2023.11.24-12.24.55:939][218]Cmd: EDIT COPY
+[2023.11.24-12.24.56:214][223]Cmd: EDIT PASTE
+[2023.11.24-12.25.34:117][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.24-12.25.34:194][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CS205" FILE="../../../../GroupProject/CS205/cs205/Content/CS205.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.24-12.25.34:261][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.24-12.25.35:233][421]LogSavePackage: Moving output files for package: /Game/CS205
+[2023.11.24-12.25.35:234][421]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/CS205730C60054B040FB476D01CA8D59C3F39.tmp' to '../../../../GroupProject/CS205/cs205/Content/CS205.umap'
+[2023.11.24-12.25.35:261][421]LogFileHelpers: Saving map 'CS205' took 1.068
+[2023.11.24-12.25.35:267][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.15 sec (total: 22.0 sec)
+[2023.11.24-12.25.35:283][421]AssetCheck: New page: Asset Save: CS205
+[2023.11.24-12.25.35:283][421]LogContentValidation: Display: Validating /Script/Engine.World /Game/CS205.CS205
+[2023.11.24-12.25.38:958][483]Cmd: EDIT COPY
+[2023.11.24-12.25.39:187][487]Cmd: EDIT PASTE
+[2023.11.24-12.25.52:139][868]Cmd: EDIT COPY
+[2023.11.24-12.25.52:611][879]Cmd: EDIT PASTE
+[2023.11.24-12.25.58:583][ 25]Cmd: TRANSACTION UNDO
+[2023.11.24-12.25.58:583][ 25]LogEditorTransaction: Undo Clicking on Elements
+[2023.11.24-12.25.59:150][ 30]Cmd: TRANSACTION UNDO
+[2023.11.24-12.25.59:150][ 30]LogEditorTransaction: Undo Clicking on Elements
+[2023.11.24-12.25.59:580][ 30]LogShaderCompilers: Display: ================================================
+[2023.11.24-12.25.59:580][ 30]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.24-12.25.59:580][ 30]LogShaderCompilers: Display: Total job queries 647, among them cache hits 196 (30.29%)
+[2023.11.24-12.25.59:580][ 30]LogShaderCompilers: Display: Tracking 352 distinct input hashes that result in 164 distinct outputs (46.59%)
+[2023.11.24-12.25.59:581][ 30]LogShaderCompilers: Display: RAM used: 8.39 MiB of 819.20 MiB budget. Usage: 1.02%
+[2023.11.24-12.25.59:581][ 30]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.24-12.25.59:581][ 30]LogShaderCompilers: Display: Shaders Compiled: 196
+[2023.11.24-12.25.59:581][ 30]LogShaderCompilers: Display: Jobs assigned 199, completed 196 (98.49%)
+[2023.11.24-12.25.59:581][ 30]LogShaderCompilers: Display: Average time worker was idle: 225.60 s
+[2023.11.24-12.25.59:581][ 30]LogShaderCompilers: Display: Time job spent in pending queue: average 0.92 s, longest 5.17 s
+[2023.11.24-12.25.59:581][ 30]LogShaderCompilers: Display: Job execution time: average 1.64 s, max 6.90 s
+[2023.11.24-12.25.59:581][ 30]LogShaderCompilers: Display: Job life time (pending + execution): average 2.56 s, max 7.01
+[2023.11.24-12.25.59:581][ 30]LogShaderCompilers: Display: Shader code size: average 45.271 KiB, min 29.613 KiB, max 73.371 KiB
+[2023.11.24-12.25.59:581][ 30]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 47.78 s
+[2023.11.24-12.25.59:581][ 30]LogShaderCompilers: Display: Jobs were issued in 173 batches (only local compilation was used), average 1.15 jobs/batch
+[2023.11.24-12.25.59:581][ 30]LogShaderCompilers: Display: Average processing rate: 4.10 jobs/sec
+[2023.11.24-12.25.59:581][ 30]LogShaderCompilers: Display: Total thread time: 115.919 s
+[2023.11.24-12.25.59:582][ 30]LogShaderCompilers: Display: Total thread preprocess time: 12.206 s
+[2023.11.24-12.25.59:582][ 30]LogShaderCompilers: Display: Percentage time preprocessing: 10.53%
+[2023.11.24-12.25.59:582][ 30]LogShaderCompilers: Display: Effective parallelization: 2.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.11.24-12.25.59:582][ 30]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.24-12.25.59:582][ 30]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   27 times, average 0.73 sec, max 1.38 sec, min 0.45 sec)
+[2023.11.24-12.25.59:582][ 30]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   18 times, average 0.73 sec, max 1.30 sec, min 0.50 sec)
+[2023.11.24-12.25.59:582][ 30]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   26 times, average 0.72 sec, max 1.15 sec, min 0.44 sec)
+[2023.11.24-12.25.59:582][ 30]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    8 times, average 0.64 sec, max 1.08 sec, min 0.49 sec)
+[2023.11.24-12.25.59:582][ 30]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    6 times, average 0.63 sec, max 0.74 sec, min 0.56 sec)
+[2023.11.24-12.25.59:582][ 30]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.24-12.25.59:582][ 30]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.10% of total time (compiled   27 times, average 0.73 sec, max 1.38 sec, min 0.45 sec)
+[2023.11.24-12.25.59:582][ 30]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.22% of total time (compiled   26 times, average 0.72 sec, max 1.15 sec, min 0.44 sec)
+[2023.11.24-12.25.59:583][ 30]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.31% of total time (compiled   18 times, average 0.73 sec, max 1.30 sec, min 0.50 sec)
+[2023.11.24-12.25.59:583][ 30]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.93% of total time (compiled   17 times, average 0.34 sec, max 0.59 sec, min 0.19 sec)
+[2023.11.24-12.25.59:583][ 30]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.45% of total time (compiled    8 times, average 0.64 sec, max 1.08 sec, min 0.49 sec)
+[2023.11.24-12.25.59:583][ 30]LogShaderCompilers: Display: ================================================
+[2023.11.24-12.26.00:669][ 58]Cmd: TRANSACTION UNDO
+[2023.11.24-12.26.00:669][ 58]LogEditorTransaction: Undo Clicking on Elements
+[2023.11.24-12.26.57:533][770]Cmd: EDIT COPY
+[2023.11.24-12.26.57:734][776]Cmd: EDIT PASTE
+[2023.11.24-12.27.19:612][444]Cmd: EDIT COPY
+[2023.11.24-12.27.19:829][451]Cmd: EDIT PASTE
+[2023.11.24-12.27.57:008][628]Cmd: EDIT COPY
+[2023.11.24-12.27.57:227][635]Cmd: EDIT PASTE
+[2023.11.24-12.28.27:703][378]Cmd: EDIT COPY
+[2023.11.24-12.28.28:003][388]Cmd: EDIT PASTE
+[2023.11.24-12.28.47:168][ 78]Cmd: EDIT COPY
+[2023.11.24-12.28.47:370][ 82]Cmd: EDIT PASTE
+[2023.11.24-12.29.06:227][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.24-12.29.06:288][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CS205" FILE="../../../../GroupProject/CS205/cs205/Content/CS205.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.24-12.29.06:348][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.24-12.29.07:273][749]LogSavePackage: Moving output files for package: /Game/CS205
+[2023.11.24-12.29.07:274][749]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/CS205733D9FCD43C69A194F564E87B5D7DFD6.tmp' to '../../../../GroupProject/CS205/cs205/Content/CS205.umap'
+[2023.11.24-12.29.07:306][749]LogFileHelpers: Saving map 'CS205' took 1.020
+[2023.11.24-12.29.07:328][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.10 sec (total: 23.1 sec)
+[2023.11.24-12.29.07:339][749]AssetCheck: New page: Asset Save: CS205
+[2023.11.24-12.29.07:339][749]LogContentValidation: Display: Validating /Script/Engine.World /Game/CS205.CS205
+[2023.11.24-12.29.17:254][126]Cmd: EDIT COPY
+[2023.11.24-12.29.17:451][130]Cmd: EDIT PASTE
+[2023.11.24-12.29.43:406][ 87]Cmd: EDIT COPY
+[2023.11.24-12.29.43:651][ 92]Cmd: EDIT PASTE
+[2023.11.24-12.30.14:672][263]Cmd: EDIT COPY
+[2023.11.24-12.30.14:893][273]Cmd: EDIT PASTE
+[2023.11.24-12.30.53:840][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.24-12.30.53:899][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CS205" FILE="../../../../GroupProject/CS205/cs205/Content/CS205.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.24-12.30.53:958][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.11.24-12.30.54:894][757]LogSavePackage: Moving output files for package: /Game/CS205
+[2023.11.24-12.30.54:894][757]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/CS2053EF436394A9B2A936CA93EA46B873A3B.tmp' to '../../../../GroupProject/CS205/cs205/Content/CS205.umap'
+[2023.11.24-12.30.54:920][757]LogFileHelpers: Saving map 'CS205' took 1.023
+[2023.11.24-12.30.54:932][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.09 sec (total: 24.2 sec)
+[2023.11.24-12.30.54:934][757]AssetCheck: New page: Asset Save: CS205
+[2023.11.24-12.30.54:934][757]LogContentValidation: Display: Validating /Script/Engine.World /Game/CS205.CS205
+[2023.11.24-12.32.16:082][522]Cmd: EDIT COPY
+[2023.11.24-12.32.16:542][531]Cmd: EDIT PASTE
+[2023.11.24-12.33.16:701][637]Cmd: TRANSACTION UNDO
+[2023.11.24-12.33.16:701][637]LogEditorTransaction: Undo Scale Elements
+[2023.11.24-12.33.21:035][763]Cmd: EDIT COPY
+[2023.11.24-12.33.21:343][773]Cmd: EDIT PASTE
+[2023.11.24-12.33.58:550][922]Cmd: EDIT COPY
+[2023.11.24-12.33.58:744][927]Cmd: EDIT PASTE
+[2023.11.24-12.34.13:008][387]Cmd: EDIT COPY
+[2023.11.24-12.34.13:223][391]Cmd: EDIT PASTE
+[2023.11.24-12.34.24:264][755]Cmd: EDIT COPY
+[2023.11.24-12.34.24:541][763]Cmd: EDIT PASTE
+[2023.11.24-12.35.00:327][ 37]Cmd: EDIT COPY
+[2023.11.24-12.35.00:557][ 45]Cmd: EDIT PASTE
+[2023.11.24-12.35.23:940][878]Cmd: EDIT COPY
+[2023.11.24-12.35.25:645][937]Cmd: EDIT PASTE
+[2023.11.24-12.35.42:051][534]Cmd: EDIT COPY
+[2023.11.24-12.35.42:255][538]Cmd: EDIT PASTE
+[2023.11.24-12.36.36:870][598]Cmd: EDIT COPY
+[2023.11.24-12.36.37:043][606]Cmd: EDIT PASTE
+[2023.11.24-12.37.04:572][598]Cmd: EDIT COPY
+[2023.11.24-12.37.04:725][601]Cmd: EDIT PASTE
+[2023.11.24-12.37.17:675][115]Cmd: EDIT COPY
+[2023.11.24-12.37.17:884][119]Cmd: EDIT PASTE
+[2023.11.24-12.37.38:704][945]Cmd: EDIT COPY
+[2023.11.24-12.37.38:847][948]Cmd: EDIT PASTE
+[2023.11.24-12.37.59:193][776]Cmd: EDIT COPY
+[2023.11.24-12.37.59:386][780]Cmd: EDIT PASTE
+[2023.11.24-12.38.16:997][527]Cmd: EDIT COPY
+[2023.11.24-12.38.17:228][533]Cmd: EDIT PASTE
+[2023.11.24-12.38.47:444][707]Cmd: EDIT COPY
+[2023.11.24-12.38.47:639][711]Cmd: EDIT PASTE
+[2023.11.24-12.39.05:203][395]Cmd: EDIT COPY
+[2023.11.24-12.39.05:377][399]Cmd: EDIT PASTE
+[2023.11.24-12.39.30:362][387]Cmd: EDIT COPY
+[2023.11.24-12.39.30:568][398]Cmd: EDIT PASTE
+[2023.11.24-12.39.45:033][950]Cmd: EDIT COPY
+[2023.11.24-12.39.45:911][981]Cmd: EDIT PASTE
+[2023.11.24-12.39.49:932][115]Cmd: TRANSACTION UNDO
+[2023.11.24-12.39.49:932][115]LogEditorTransaction: Undo Clicking on Elements
+[2023.11.24-12.39.50:320][119]Cmd: TRANSACTION UNDO
+[2023.11.24-12.39.50:320][119]LogEditorTransaction: Undo Clicking on Elements
+[2023.11.24-12.39.50:994][139]Cmd: TRANSACTION UNDO
+[2023.11.24-12.39.50:994][139]LogEditorTransaction: Undo Clicking on Elements
+[2023.11.24-12.39.52:383][193]Cmd: TRANSACTION UNDO
+[2023.11.24-12.39.52:383][193]LogEditorTransaction: Undo Clicking on Elements
+[2023.11.24-12.39.53:652][234]Cmd: TRANSACTION UNDO
+[2023.11.24-12.39.53:653][234]LogEditorTransaction: Undo Paste
+[2023.11.24-12.39.56:526][304]Cmd: TRANSACTION UNDO
+[2023.11.24-12.39.56:526][304]LogEditorTransaction: Undo Move Elements
+[2023.11.24-12.39.57:011][323]Cmd: EDIT COPY
+[2023.11.24-12.39.57:200][330]Cmd: EDIT PASTE
+[2023.11.24-12.40.41:423][286]Cmd: EDIT COPY
+[2023.11.24-12.40.41:621][291]Cmd: EDIT PASTE
+[2023.11.24-12.40.45:386][424]Cmd: EDIT COPY
+[2023.11.24-12.41.52:357][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.24-12.41.52:418][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CS205" FILE="../../../../GroupProject/CS205/cs205/Content/CS205.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.24-12.41.52:485][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.24-12.41.53:420][994]LogSavePackage: Moving output files for package: /Game/CS205
+[2023.11.24-12.41.53:421][994]LogSavePackage: Moving '../../../../GroupProject/CS205/cs205/Saved/CS2054FE002A945EED6D5158C67BA6F313F07.tmp' to '../../../../GroupProject/CS205/cs205/Content/CS205.umap'
+[2023.11.24-12.41.53:446][994]LogFileHelpers: Saving map 'CS205' took 1.030
+[2023.11.24-12.41.53:452][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.09 sec (total: 25.3 sec)
+[2023.11.24-12.41.53:462][994]AssetCheck: New page: Asset Save: CS205
+[2023.11.24-12.41.53:462][994]LogContentValidation: Display: Validating /Script/Engine.World /Game/CS205.CS205
