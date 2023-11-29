@@ -3459,3 +3459,1214 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.29-01.03.48:911][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 4.37 sec)
 [2023.11.29-01.03.48:911][156]AssetCheck: New page: Asset Save: FishingMiniGame_UI
 [2023.11.29-01.03.48:911][156]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.05.20:345][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.05.20:398][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.05.20:411][  8]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.05.20:412][  8]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIBC5D51344CE26A250F93D8A7AEFA444A.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.05.20:418][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 4.45 sec)
+[2023.11.29-01.05.20:420][  8]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.05.20:420][  8]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.05.56:399][289]LogEditorTransaction: Undo Add Node
+[2023.11.29-01.05.58:477][408]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.05.58:519][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.11.29-01.06.01:564][602]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-01.06.01:574][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-01.06.01:574][602]PIE: New page: PIE session: CS205 (30/11/2023, 3:06:01 am)
+[2023.11.29-01.06.01:575][602]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-01.06.01:688][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113626s)
+[2023.11.29-01.06.01:688][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.113666s)
+[2023.11.29-01.06.01:705][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.29-01.06.01:711][602]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-01.06.01:711][602]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-01.06.01:711][602]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-01.06.01:712][602]LogPlayLevel: PIE: World Init took: (0.001386s)
+[2023.11.29-01.06.01:712][602]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.11.29-01.06.01:712][602]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-01.06.01:712][602]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-01.06.01:712][602]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-01.06.01:712][602]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-01.06.01:712][602]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-01.06.01:712][602]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-01.06.01:712][602]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-01.06.01:712][602]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-01.06.01:713][602]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-01.06.01:713][602]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-01.06.01:713][602]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-01.06.01:714][602]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-01.06.01:736][602]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-01.06.01:736][602]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-01.06.01:736][602]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-01.06.01:736][602]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-01.06.01:737][602]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.11.29-01.06.01:737][602]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.11.29-01.06.01:739][602]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.11.29-01.06.01:739][602]LogInit: FAudioDevice initialized with ID 15.
+[2023.11.29-01.06.01:739][602]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.11.29-01.06.01:739][602]LogAudio: Display: Audio Device (ID: 15) registered with world 'CS205'.
+[2023.11.29-01.06.01:739][602]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.11.29-01.06.01:741][602]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-01.06.01:805][602]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-14.06.01
+[2023.11.29-01.06.01:810][602]LogWorld: Bringing up level for play took: 0.069307
+[2023.11.29-01.06.01:812][602]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.11.29-01.06.01:815][602]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.06.01:815][602]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.06.01:815][602]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-01.06.01:818][602]PIE: Server logged in
+[2023.11.29-01.06.01:819][602]PIE: Play in editor total start time 0.245 seconds.
+[2023.11.29-01.06.01:825][602]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-01.06.03:374][677]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-01.06.03:374][677]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-01.06.13:523][372]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.06.13:524][372]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.06.13:524][372]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.29-01.06.20:401][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.06.20:401][798]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-01.06.20:402][798]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.06.20:412][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.06.20:416][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-01.06.20:423][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.06.20:447][798]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.29-01.06.20:448][798]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.11.29-01.06.20:448][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.11.29-01.06.20:449][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.11.29-01.06.20:454][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.06.20:470][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.29-01.06.20:509][799]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.11.29-01.06.23:950][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.06.24:004][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.06.24:017][974]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.06.24:018][974]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI4D43D22D4A158D0A501D0180C708B3C8.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.06.24:024][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 4.52 sec)
+[2023.11.29-01.06.24:026][974]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.06.24:026][974]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.06.25:857][ 71]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-01.06.26:529][ 92]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-01.06.26:987][113]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-01.06.27:412][133]LogEditorTransaction: Undo Move Node
+[2023.11.29-01.06.27:826][151]LogEditorTransaction: Undo Add Node
+[2023.11.29-01.06.28:256][171]LogEditorTransaction: Undo Delete current selection
+[2023.11.29-01.06.32:736][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.06.32:789][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.06.32:802][441]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.06.32:803][441]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI691E0A0449F5AD99422823A5B9074C5D.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.06.32:809][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 4.59 sec)
+[2023.11.29-01.06.32:811][441]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.06.32:811][441]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.09.25:098][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.09.25:149][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.09.25:162][965]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.09.25:163][965]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIE7236BC344E8B3860BCF15B273D0F523.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.09.25:168][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 4.66 sec)
+[2023.11.29-01.09.25:170][965]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.09.25:170][965]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.13.03:040][991]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.13.03:088][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.11.29-01.13.05:481][138]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-01.13.05:490][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-01.13.05:490][138]PIE: New page: PIE session: CS205 (30/11/2023, 3:13:05 am)
+[2023.11.29-01.13.05:491][138]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-01.13.05:611][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.120017s)
+[2023.11.29-01.13.05:611][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.120053s)
+[2023.11.29-01.13.05:628][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.29-01.13.05:632][138]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-01.13.05:633][138]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-01.13.05:633][138]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-01.13.05:634][138]LogPlayLevel: PIE: World Init took: (0.001546s)
+[2023.11.29-01.13.05:634][138]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.11.29-01.13.05:634][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-01.13.05:634][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-01.13.05:634][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-01.13.05:634][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-01.13.05:634][138]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-01.13.05:634][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-01.13.05:634][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-01.13.05:634][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-01.13.05:634][138]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-01.13.05:634][138]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-01.13.05:634][138]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-01.13.05:636][138]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-01.13.05:658][138]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-01.13.05:658][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-01.13.05:658][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-01.13.05:658][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-01.13.05:658][138]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.11.29-01.13.05:658][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.11.29-01.13.05:660][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.11.29-01.13.05:660][138]LogInit: FAudioDevice initialized with ID 16.
+[2023.11.29-01.13.05:660][138]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.11.29-01.13.05:660][138]LogAudio: Display: Audio Device (ID: 16) registered with world 'CS205'.
+[2023.11.29-01.13.05:660][138]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.11.29-01.13.05:702][138]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-01.13.05:765][138]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-14.13.05
+[2023.11.29-01.13.05:770][138]LogWorld: Bringing up level for play took: 0.068149
+[2023.11.29-01.13.05:772][138]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.11.29-01.13.05:776][138]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.13.05:776][138]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.13.05:776][138]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-01.13.05:778][138]PIE: Server logged in
+[2023.11.29-01.13.05:779][138]PIE: Play in editor total start time 0.288 seconds.
+[2023.11.29-01.13.05:785][138]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-01.13.07:043][197]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-01.13.07:043][197]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-01.13.17:055][880]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.13.17:055][880]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.13.17:055][880]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.29-01.13.20:151][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.13.20:151][ 84]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-01.13.20:152][ 84]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.13.20:163][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.13.20:167][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-01.13.20:175][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.13.20:200][ 84]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.29-01.13.20:200][ 84]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.11.29-01.13.20:200][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.11.29-01.13.20:202][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.11.29-01.13.20:206][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.13.20:223][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.11.29-01.13.20:262][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.11.29-01.13.23:741][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.13.23:791][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.13.23:803][294]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.13.23:804][294]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI41BDABDA405F18A30B90EC8669E1C215.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.13.23:810][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 4.73 sec)
+[2023.11.29-01.13.23:811][294]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.13.23:811][294]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.14.23:154][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.29-01.14.23:160][ 49]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CS205' took 0.022
+[2023.11.29-01.14.23:160][ 49]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGames/FishingMiniGame_UI] ([2] browsable assets)...
+[2023.11.29-01.14.23:160][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGames/FishingMiniGame_UI]
+[2023.11.29-01.14.23:173][ 49]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MiniGames/FishingMiniGame_UI_Auto6
+[2023.11.29-01.14.23:173][ 49]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI_Auto6D9140BFE4AE5F794FB48198FDE09BE68.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/Autosaves/Game/MiniGames/FishingMiniGame_UI_Auto6.uasset'
+[2023.11.29-01.14.23:174][ 49]LogFileHelpers: Auto-saving content packages took 0.014
+[2023.11.29-01.20.00:360][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.20.00:406][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.20.00:419][ 37]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.20.00:420][ 37]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIAAFB28AA4772293736220A8F30A0F805.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.20.00:427][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 4.80 sec)
+[2023.11.29-01.20.00:429][ 37]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.20.00:429][ 37]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.20.18:295][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.20.18:345][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.20.18:358][191]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.20.18:358][191]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI3903009D486C184AFEB8458C49F4E899.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.20.18:364][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 4.87 sec)
+[2023.11.29-01.20.18:366][191]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.20.18:366][191]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.20.47:157][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.20.47:204][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.20.47:217][ 39]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.20.47:218][ 39]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIDBBD93D64497034D9CC1CD8A33132163.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.20.47:224][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 4.94 sec)
+[2023.11.29-01.20.47:226][ 39]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.20.47:226][ 39]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.20.50:977][285]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.20.51:022][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.20.51:035][285]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.20.51:036][285]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI9CC9C48D43387772F905C4A95C3BE727.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.20.51:042][285]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 5.00 sec)
+[2023.11.29-01.20.51:044][285]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.20.51:044][285]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.21.15:877][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.21.15:933][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.21.15:947][911]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.21.15:947][911]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIFAB568E44BDC6F9FC9C06597E0E4C59F.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.21.15:953][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 5.08 sec)
+[2023.11.29-01.21.15:955][911]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.21.15:955][911]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.21.20:863][238]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.21.20:911][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.21.20:925][238]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.21.20:925][238]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIDE98B99649B9C7BCB97859B68C2B0590.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.21.20:932][238]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 5.15 sec)
+[2023.11.29-01.21.20:933][238]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.21.20:933][238]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.22.05:590][997]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.22.05:630][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.11.29-01.22.06:709][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.22.06:762][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.22.06:799][ 59]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.22.06:800][ 59]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIBF5085EF4C9F4B02B2BE86A4775674D1.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.22.06:806][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 5.24 sec)
+[2023.11.29-01.22.06:808][ 59]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.22.06:808][ 59]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.22.07:909][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.22.07:956][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.22.07:970][128]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.22.07:971][128]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIAA72882843D18B31CDCFE9AE6B67D590.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.22.07:977][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 5.31 sec)
+[2023.11.29-01.22.07:979][128]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.22.07:979][128]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.22.11:917][392]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-01.22.11:926][392]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.29-01.22.11:928][392]LogPlayLevel: [PlayLevel] Compiling FishingMiniGame_UI before play...
+[2023.11.29-01.22.12:002][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.11.29-01.22.12:010][392]LogPlayLevel: PlayLevel: Blueprint regeneration took 83 ms (1 blueprints)
+[2023.11.29-01.22.12:010][392]PIE: New page: PIE session: CS205 (30/11/2023, 3:22:12 am)
+[2023.11.29-01.22.12:010][392]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-01.22.12:124][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113822s)
+[2023.11.29-01.22.12:124][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.113855s)
+[2023.11.29-01.22.12:139][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.11.29-01.22.12:142][392]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-01.22.12:142][392]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-01.22.12:143][392]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-01.22.12:144][392]LogPlayLevel: PIE: World Init took: (0.001643s)
+[2023.11.29-01.22.12:144][392]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.11.29-01.22.12:144][392]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-01.22.12:144][392]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-01.22.12:144][392]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-01.22.12:144][392]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-01.22.12:144][392]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-01.22.12:144][392]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-01.22.12:144][392]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-01.22.12:144][392]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-01.22.12:144][392]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-01.22.12:144][392]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-01.22.12:144][392]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-01.22.12:146][392]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-01.22.12:170][392]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-01.22.12:170][392]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-01.22.12:170][392]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-01.22.12:170][392]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-01.22.12:171][392]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.11.29-01.22.12:171][392]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.11.29-01.22.12:173][392]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.11.29-01.22.12:173][392]LogInit: FAudioDevice initialized with ID 17.
+[2023.11.29-01.22.12:173][392]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.11.29-01.22.12:173][392]LogAudio: Display: Audio Device (ID: 17) registered with world 'CS205'.
+[2023.11.29-01.22.12:173][392]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.11.29-01.22.12:210][392]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-01.22.12:273][392]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-14.22.12
+[2023.11.29-01.22.12:278][392]LogWorld: Bringing up level for play took: 0.066623
+[2023.11.29-01.22.12:280][392]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.11.29-01.22.12:283][392]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.22.12:283][392]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.22.12:283][392]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-01.22.12:285][392]PIE: Server logged in
+[2023.11.29-01.22.12:286][392]PIE: Play in editor total start time 0.36 seconds.
+[2023.11.29-01.22.12:292][392]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-01.22.13:412][442]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-01.22.13:412][442]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-01.22.25:158][255]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.22.25:158][255]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.22.25:158][255]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.29-01.22.30:241][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.22.30:241][590]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-01.22.30:243][590]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.22.30:253][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.22.30:256][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-01.22.30:264][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.22.30:282][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.22.30:288][590]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.11.29-01.22.30:288][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.11.29-01.22.30:290][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.11.29-01.22.30:311][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.11.29-01.22.30:349][591]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.11.29-01.22.32:780][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.22.32:831][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.22.32:844][729]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.22.32:845][729]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIFA893D8346AB2FDDC1C7DCA59F976351.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.22.32:852][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 5.38 sec)
+[2023.11.29-01.22.32:854][729]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.22.32:854][729]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.22.39:473][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.22.39:519][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.22.39:533][136]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.22.39:533][136]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI26A9A5E849B2706870CCD3B331DBD15E.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.22.39:539][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 5.45 sec)
+[2023.11.29-01.22.39:541][136]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.22.39:541][136]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.22.59:032][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.22.59:082][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.22.59:096][379]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.22.59:096][379]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI632146404979DDF5C97FF68B029DEB0C.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.22.59:102][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 5.52 sec)
+[2023.11.29-01.22.59:118][379]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.22.59:118][379]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.23.03:721][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.23.03:775][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.23.03:788][684]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.23.03:789][684]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UICD27F5AA464990BA46AE78945958491B.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.23.03:796][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 5.59 sec)
+[2023.11.29-01.23.03:797][684]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.23.03:797][684]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.23.06:546][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.23.06:590][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.23.06:603][861]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.23.06:604][861]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIAF96E461485BD686EBD286A2D547A1D9.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.23.06:613][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 5.66 sec)
+[2023.11.29-01.23.06:615][861]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.23.06:615][861]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.23.08:985][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.23.09:031][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.23.09:044][ 19]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.23.09:045][ 19]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIA988D66D478AFFCB38FE92920B509DEB.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.23.09:054][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 5.73 sec)
+[2023.11.29-01.23.09:056][ 19]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.23.09:056][ 19]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.23.32:969][422]LogSlate: Took 0.037178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.11.29-01.23.46:343][ 10]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.11.29-01.23.50:468][240]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.11.29-01.23.50:487][240]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.11.29-01.24.05:407][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.24.05:456][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.24.05:470][151]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.24.05:471][151]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI9A352B51440EF733885B11B37EDAE426.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.24.05:477][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 5.80 sec)
+[2023.11.29-01.24.05:478][151]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.24.05:478][151]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.24.10:612][460]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.24.10:664][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.24.10:677][460]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.24.10:678][460]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UID4305B05443774ABCC190B908508A7D8.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.24.10:683][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 5.87 sec)
+[2023.11.29-01.24.10:685][460]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.24.10:685][460]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.24.16:069][800]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-01.24.16:630][819]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-01.24.17:181][851]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-01.24.18:021][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.24.18:074][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.24.18:087][903]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.24.18:088][903]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIBC88C05443077B15E80EC2910D0945DE.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.24.18:095][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 5.95 sec)
+[2023.11.29-01.24.18:097][903]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.24.18:097][903]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.24.20:514][ 65]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-01.24.24:935][340]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-01.24.25:209][346]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-01.24.25:406][348]LogEditorTransaction: Undo Move Node
+[2023.11.29-01.24.25:608][355]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-01.24.25:792][363]LogEditorTransaction: Undo Move Node
+[2023.11.29-01.24.26:017][374]LogEditorTransaction: Undo Add Node
+[2023.11.29-01.24.26:344][392]LogEditorTransaction: Undo Move Node
+[2023.11.29-01.24.26:825][420]LogEditorTransaction: Undo Move Node
+[2023.11.29-01.24.27:436][457]LogEditorTransaction: Undo Change Parameter Type
+[2023.11.29-01.24.27:858][481]LogEditorTransaction: Undo Promote To Variable
+[2023.11.29-01.24.28:888][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.24.28:924][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.24.28:937][546]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.24.28:937][546]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIA6731D934607FA7E2907ADAAE1FC739A.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.24.28:944][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 6.00 sec)
+[2023.11.29-01.24.28:945][546]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.24.28:946][546]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.24.36:730][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.24.36:781][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.24.36:794][ 80]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.24.36:795][ 80]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI236F59204127F1AFE5EC5F84BEF631C0.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.24.36:801][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 6.07 sec)
+[2023.11.29-01.24.36:803][ 80]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.24.36:803][ 80]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.24.56:162][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.24.56:204][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.24.56:218][133]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.24.56:218][133]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIC7D9A8574B22693E19FE2785B1D1A079.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.24.56:225][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 6.13 sec)
+[2023.11.29-01.24.56:226][133]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.24.56:226][133]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.24.57:085][188]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.24.57:135][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.11.29-01.25.02:648][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.25.02:692][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.25.02:705][531]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.25.02:706][531]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIEA9FACBB470AC997EF30DBBDC5FC5F8F.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.25.02:712][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 6.20 sec)
+[2023.11.29-01.25.02:713][531]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.25.02:713][531]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.25.03:498][582]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.25.03:538][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.29-01.25.05:477][704]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-01.25.05:487][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-01.25.05:487][704]PIE: New page: PIE session: CS205 (30/11/2023, 3:25:05 am)
+[2023.11.29-01.25.05:487][704]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-01.25.05:607][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119045s)
+[2023.11.29-01.25.05:607][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.119079s)
+[2023.11.29-01.25.05:624][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.11.29-01.25.05:630][704]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-01.25.05:630][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-01.25.05:630][704]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-01.25.05:631][704]LogPlayLevel: PIE: World Init took: (0.001490s)
+[2023.11.29-01.25.05:631][704]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.11.29-01.25.05:631][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-01.25.05:631][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-01.25.05:631][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-01.25.05:631][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-01.25.05:631][704]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-01.25.05:631][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-01.25.05:631][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-01.25.05:631][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-01.25.05:632][704]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-01.25.05:632][704]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-01.25.05:632][704]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-01.25.05:634][704]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-01.25.05:656][704]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-01.25.05:656][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-01.25.05:656][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-01.25.05:656][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-01.25.05:657][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.11.29-01.25.05:657][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.11.29-01.25.05:659][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.11.29-01.25.05:659][704]LogInit: FAudioDevice initialized with ID 18.
+[2023.11.29-01.25.05:659][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.11.29-01.25.05:659][704]LogAudio: Display: Audio Device (ID: 18) registered with world 'CS205'.
+[2023.11.29-01.25.05:659][704]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.11.29-01.25.05:661][704]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-01.25.05:725][704]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-14.25.05
+[2023.11.29-01.25.05:730][704]LogWorld: Bringing up level for play took: 0.068526
+[2023.11.29-01.25.05:732][704]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.11.29-01.25.05:736][704]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.25.05:736][704]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.25.05:736][704]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-01.25.05:738][704]PIE: Server logged in
+[2023.11.29-01.25.05:739][704]PIE: Play in editor total start time 0.251 seconds.
+[2023.11.29-01.25.05:745][704]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-01.25.06:697][745]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-01.25.06:697][745]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-01.25.16:114][405]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.25.16:114][405]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.25.16:114][405]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.29-01.25.27:521][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.25.27:521][182]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-01.25.27:523][182]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.25.27:534][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.25.27:538][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-01.25.27:547][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.25.27:572][182]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.29-01.25.27:572][182]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.11.29-01.25.27:572][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.11.29-01.25.27:574][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.11.29-01.25.27:579][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.25.27:595][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.11.29-01.25.27:633][183]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.11.29-01.25.29:267][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.25.29:317][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.25.29:331][276]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.25.29:331][276]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI3772CB644C3A084B32220F98BD5767A6.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.25.29:338][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 6.27 sec)
+[2023.11.29-01.25.29:339][276]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.25.29:339][276]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.25.34:085][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.25.34:132][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.25.34:144][588]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.25.34:145][588]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIBEDE5FD14022881CCF315F88E39A5068.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.25.34:151][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 6.34 sec)
+[2023.11.29-01.25.34:153][588]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.25.34:153][588]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.25.35:135][650]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.25.35:174][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.29-01.25.38:223][856]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-01.25.38:234][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-01.25.38:234][856]PIE: New page: PIE session: CS205 (30/11/2023, 3:25:38 am)
+[2023.11.29-01.25.38:234][856]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-01.25.38:349][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115170s)
+[2023.11.29-01.25.38:349][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.115210s)
+[2023.11.29-01.25.38:365][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.29-01.25.38:371][856]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-01.25.38:372][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-01.25.38:372][856]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-01.25.38:373][856]LogPlayLevel: PIE: World Init took: (0.001546s)
+[2023.11.29-01.25.38:373][856]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.11.29-01.25.38:373][856]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-01.25.38:373][856]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-01.25.38:373][856]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-01.25.38:373][856]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-01.25.38:373][856]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-01.25.38:373][856]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-01.25.38:373][856]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-01.25.38:373][856]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-01.25.38:373][856]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-01.25.38:373][856]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-01.25.38:373][856]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-01.25.38:375][856]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-01.25.38:397][856]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-01.25.38:398][856]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-01.25.38:398][856]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-01.25.38:398][856]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-01.25.38:398][856]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.11.29-01.25.38:398][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.11.29-01.25.38:400][856]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.11.29-01.25.38:400][856]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.11.29-01.25.38:400][856]LogInit: FAudioDevice initialized with ID 19.
+[2023.11.29-01.25.38:400][856]LogAudio: Display: Audio Device (ID: 19) registered with world 'CS205'.
+[2023.11.29-01.25.38:400][856]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2023.11.29-01.25.38:402][856]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-01.25.38:468][856]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-14.25.38
+[2023.11.29-01.25.38:473][856]LogWorld: Bringing up level for play took: 0.069258
+[2023.11.29-01.25.38:475][856]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.11.29-01.25.38:478][856]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.25.38:478][856]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.25.38:478][856]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-01.25.38:481][856]PIE: Server logged in
+[2023.11.29-01.25.38:481][856]PIE: Play in editor total start time 0.247 seconds.
+[2023.11.29-01.25.38:487][856]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-01.25.39:260][891]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-01.25.39:260][891]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-01.25.50:053][654]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.25.50:053][654]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.25.50:053][654]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.29-01.25.53:222][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.25.53:222][871]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-01.25.53:223][871]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.25.53:233][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.25.53:237][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-01.25.53:244][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.25.53:268][871]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.29-01.25.53:268][871]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2023.11.29-01.25.53:268][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.11.29-01.25.53:270][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.11.29-01.25.53:275][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.25.53:292][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.11.29-01.25.53:330][872]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.11.29-01.25.56:379][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.25.56:426][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.25.56:440][ 54]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.25.56:440][ 54]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI2A6C3B3143DBEC1AAEE2FA9724F7D1E5.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.25.56:446][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 6.40 sec)
+[2023.11.29-01.25.56:456][ 54]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.25.56:457][ 54]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.26.18:368][464]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.26.18:442][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.26.18:456][464]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.26.18:456][464]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIF4B585AB4E90AE4191BECEA5F01FDED1.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.26.18:463][464]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 6.50 sec)
+[2023.11.29-01.26.18:465][464]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.26.18:465][464]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.26.34:242][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.26.34:291][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.26.34:305][397]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.26.34:305][397]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIF0731D4E47C4F3118E0238A6792E1044.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.26.34:312][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 6.57 sec)
+[2023.11.29-01.26.34:313][397]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.26.34:314][397]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.27.06:593][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.27.06:645][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.27.06:659][424]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.27.06:660][424]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI463307C3447A732D9C57AF849EB16B64.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.27.06:666][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 6.64 sec)
+[2023.11.29-01.27.06:668][424]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.27.06:668][424]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.27.16:854][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.27.16:922][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.27.16:936][ 73]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.27.16:937][ 73]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI2B89C9654B683162CCB122A9FC488339.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.27.16:944][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 6.73 sec)
+[2023.11.29-01.27.16:946][ 73]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.27.16:946][ 73]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.27.17:396][ 99]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.27.17:438][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.11.29-01.27.18:267][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.27.18:317][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.27.18:331][145]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.27.18:331][145]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI31E9EE414F2815122DAD6188DBA357C8.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.27.18:337][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 6.80 sec)
+[2023.11.29-01.27.18:339][145]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.27.18:339][145]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.27.28:813][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.27.28:864][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.27.28:878][783]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.27.28:878][783]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI6A8DA23145016BD58639638BEED6D919.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.27.28:885][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 6.87 sec)
+[2023.11.29-01.27.28:886][783]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.27.28:886][783]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.27.32:485][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.27.32:532][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.27.32:546][  8]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.27.32:546][  8]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI2EB4C7D046B8F0E42D441988EE31BDB3.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.27.32:552][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 6.94 sec)
+[2023.11.29-01.27.32:553][  8]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.27.32:553][  8]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.27.32:968][ 34]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.27.33:011][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.11.29-01.27.38:445][372]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-01.27.38:456][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-01.27.38:456][372]PIE: New page: PIE session: CS205 (30/11/2023, 3:27:38 am)
+[2023.11.29-01.27.38:456][372]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-01.27.38:573][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116707s)
+[2023.11.29-01.27.38:573][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.116744s)
+[2023.11.29-01.27.38:589][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.29-01.27.38:595][372]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-01.27.38:595][372]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-01.27.38:595][372]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-01.27.38:596][372]LogPlayLevel: PIE: World Init took: (0.001232s)
+[2023.11.29-01.27.38:596][372]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.11.29-01.27.38:596][372]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-01.27.38:596][372]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-01.27.38:596][372]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-01.27.38:596][372]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-01.27.38:596][372]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-01.27.38:596][372]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-01.27.38:596][372]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-01.27.38:596][372]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-01.27.38:596][372]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-01.27.38:596][372]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-01.27.38:597][372]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-01.27.38:599][372]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-01.27.38:622][372]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-01.27.38:622][372]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-01.27.38:622][372]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-01.27.38:622][372]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-01.27.38:623][372]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.11.29-01.27.38:623][372]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.11.29-01.27.38:625][372]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.11.29-01.27.38:625][372]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.11.29-01.27.38:625][372]LogInit: FAudioDevice initialized with ID 20.
+[2023.11.29-01.27.38:625][372]LogAudio: Display: Audio Device (ID: 20) registered with world 'CS205'.
+[2023.11.29-01.27.38:625][372]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2023.11.29-01.27.38:628][372]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-01.27.38:691][372]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-14.27.38
+[2023.11.29-01.27.38:695][372]LogWorld: Bringing up level for play took: 0.067296
+[2023.11.29-01.27.38:698][372]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.11.29-01.27.38:701][372]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.27.38:701][372]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.27.38:701][372]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-01.27.38:703][372]PIE: Server logged in
+[2023.11.29-01.27.38:704][372]PIE: Play in editor total start time 0.248 seconds.
+[2023.11.29-01.27.38:710][372]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-01.27.39:934][432]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-01.27.39:934][432]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-01.27.50:040][140]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.27.50:040][140]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.27.50:040][140]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.29-01.27.55:092][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.27.55:092][482]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-01.27.55:093][482]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.27.55:103][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.27.55:106][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-01.27.55:114][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.27.55:137][482]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.29-01.27.55:137][482]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2023.11.29-01.27.55:137][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.11.29-01.27.55:139][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.11.29-01.27.55:144][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.27.55:160][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.29-01.27.55:198][483]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.11.29-01.28.04:356][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.28.04:409][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.28.04:422][ 81]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.28.04:423][ 81]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI3D5956A24380C1A3CD2876AF8965FF17.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.28.04:429][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 7.01 sec)
+[2023.11.29-01.28.04:431][ 81]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.28.04:431][ 81]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.28.23:076][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.28.23:122][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.28.23:135][365]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.28.23:136][365]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI3B3DF3FF4E609875E9DA8D848309D227.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.28.23:141][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 7.08 sec)
+[2023.11.29-01.28.23:143][365]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.28.23:143][365]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.28.25:442][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.28.25:494][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.28.25:508][518]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.28.25:508][518]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI2EC08D504C8B46C82AAA3D8B69506BF8.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.28.25:514][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 7.15 sec)
+[2023.11.29-01.28.25:516][518]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.28.25:516][518]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.28.28:283][705]LogEditorTransaction: Undo Delete current selection
+[2023.11.29-01.28.28:947][731]LogEditorTransaction: Undo Delete current selection
+[2023.11.29-01.28.29:315][752]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-01.28.29:710][774]LogEditorTransaction: Undo Move Node
+[2023.11.29-01.28.29:987][788]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-01.28.30:235][800]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-01.28.30:456][810]LogEditorTransaction: Undo Add Node
+[2023.11.29-01.28.30:675][820]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-01.28.30:905][831]LogEditorTransaction: Undo Split Struct Pin
+[2023.11.29-01.28.31:155][843]LogEditorTransaction: Undo Delete current selection
+[2023.11.29-01.28.31:385][854]LogEditorTransaction: Undo Move Node
+[2023.11.29-01.28.31:964][888]LogEditorTransaction: Undo Add Node
+[2023.11.29-01.28.32:646][916]LogEditorTransaction: Redo Add Node
+[2023.11.29-01.28.32:834][924]LogEditorTransaction: Redo Move Node
+[2023.11.29-01.28.32:965][927]LogEditorTransaction: Redo Delete current selection
+[2023.11.29-01.28.33:137][934]LogEditorTransaction: Redo Split Struct Pin
+[2023.11.29-01.28.33:310][941]LogEditorTransaction: Redo Create Pin Link
+[2023.11.29-01.28.41:659][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.28.41:710][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.28.41:724][468]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.28.41:725][468]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UID10CEE9D48CDC2CBBE0986A12110741A.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.28.41:731][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 7.22 sec)
+[2023.11.29-01.28.41:733][468]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.28.41:733][468]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.28.42:493][518]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.28.42:542][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.11.29-01.28.44:739][652]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-01.28.44:748][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-01.28.44:749][652]PIE: New page: PIE session: CS205 (30/11/2023, 3:28:44 am)
+[2023.11.29-01.28.44:771][652]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-01.28.44:883][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112176s)
+[2023.11.29-01.28.44:883][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.112222s)
+[2023.11.29-01.28.44:897][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.29-01.28.44:904][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-01.28.44:904][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-01.28.44:905][652]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-01.28.44:905][652]LogPlayLevel: PIE: World Init took: (0.001527s)
+[2023.11.29-01.28.44:906][652]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.11.29-01.28.44:906][652]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-01.28.44:906][652]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-01.28.44:906][652]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-01.28.44:906][652]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-01.28.44:906][652]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-01.28.44:906][652]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-01.28.44:906][652]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-01.28.44:906][652]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-01.28.44:906][652]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-01.28.44:906][652]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-01.28.44:906][652]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-01.28.44:908][652]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-01.28.44:933][652]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-01.28.44:933][652]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-01.28.44:933][652]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-01.28.44:933][652]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-01.28.44:934][652]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.11.29-01.28.44:934][652]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.11.29-01.28.44:936][652]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.11.29-01.28.44:936][652]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.11.29-01.28.44:936][652]LogInit: FAudioDevice initialized with ID 21.
+[2023.11.29-01.28.44:936][652]LogAudio: Display: Audio Device (ID: 21) registered with world 'CS205'.
+[2023.11.29-01.28.44:936][652]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2023.11.29-01.28.44:939][652]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-01.28.45:001][652]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-14.28.45
+[2023.11.29-01.28.45:006][652]LogWorld: Bringing up level for play took: 0.066934
+[2023.11.29-01.28.45:008][652]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.11.29-01.28.45:012][652]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.28.45:012][652]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.28.45:012][652]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-01.28.45:014][652]PIE: Server logged in
+[2023.11.29-01.28.45:015][652]PIE: Play in editor total start time 0.267 seconds.
+[2023.11.29-01.28.45:022][652]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-01.28.46:035][700]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-01.28.46:035][700]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-01.28.55:594][346]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.28.55:594][346]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.28.55:594][346]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.29-01.28.56:143][381]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] Hello
+[2023.11.29-01.28.56:483][403]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] Hello
+[2023.11.29-01.28.57:396][461]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] Hello
+[2023.11.29-01.28.57:553][471]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] Hello
+[2023.11.29-01.28.57:782][486]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] Hello
+[2023.11.29-01.28.58:318][520]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] Hello
+[2023.11.29-01.28.58:504][532]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] Hello
+[2023.11.29-01.28.58:705][545]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] Hello
+[2023.11.29-01.28.59:062][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.28.59:062][565]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-01.28.59:062][565]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.28.59:073][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.28.59:076][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-01.28.59:083][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.28.59:109][565]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.29-01.28.59:109][565]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2023.11.29-01.28.59:109][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.11.29-01.28.59:111][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.11.29-01.28.59:116][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.28.59:133][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.11.29-01.28.59:171][566]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.11.29-01.29.03:339][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.29.03:394][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.29.03:408][806]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.29.03:409][806]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UICDEA07AC4F6F93EA55AE1284948EB7DE.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.29.03:416][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 7.30 sec)
+[2023.11.29-01.29.03:418][806]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.29.03:418][806]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.29.04:494][876]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.29.04:534][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.11.29-01.29.07:179][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.29.07:227][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.29.07:241][ 37]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.29.07:242][ 37]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI19ADC4CE4C6A887FDFFE3E96CDD7A717.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.29.07:248][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 7.37 sec)
+[2023.11.29-01.29.07:249][ 37]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.29.07:249][ 37]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.29.09:953][192]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.29.09:992][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.29-01.29.12:289][336]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-01.29.12:299][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-01.29.12:299][336]PIE: New page: PIE session: CS205 (30/11/2023, 3:29:12 am)
+[2023.11.29-01.29.12:299][336]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-01.29.12:414][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114421s)
+[2023.11.29-01.29.12:414][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.114456s)
+[2023.11.29-01.29.12:431][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.29-01.29.12:437][336]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-01.29.12:437][336]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-01.29.12:438][336]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-01.29.12:438][336]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2023.11.29-01.29.12:439][336]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.11.29-01.29.12:439][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-01.29.12:439][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-01.29.12:439][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-01.29.12:439][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-01.29.12:439][336]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-01.29.12:439][336]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-01.29.12:439][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-01.29.12:439][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-01.29.12:439][336]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-01.29.12:439][336]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-01.29.12:439][336]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-01.29.12:441][336]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-01.29.12:462][336]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-01.29.12:462][336]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-01.29.12:462][336]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-01.29.12:462][336]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-01.29.12:463][336]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.11.29-01.29.12:463][336]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.11.29-01.29.12:465][336]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.11.29-01.29.12:465][336]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.11.29-01.29.12:465][336]LogInit: FAudioDevice initialized with ID 22.
+[2023.11.29-01.29.12:465][336]LogAudio: Display: Audio Device (ID: 22) registered with world 'CS205'.
+[2023.11.29-01.29.12:465][336]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.11.29-01.29.12:467][336]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-01.29.12:528][336]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-14.29.12
+[2023.11.29-01.29.12:533][336]LogWorld: Bringing up level for play took: 0.065630
+[2023.11.29-01.29.12:536][336]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.11.29-01.29.12:539][336]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.29.12:539][336]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.29.12:539][336]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-01.29.12:541][336]PIE: Server logged in
+[2023.11.29-01.29.12:542][336]PIE: Play in editor total start time 0.243 seconds.
+[2023.11.29-01.29.12:551][336]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-01.29.13:547][383]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-01.29.13:548][383]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-01.29.22:693][  3]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.29.22:693][  3]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.29.22:693][  3]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.29-01.29.23:225][ 37]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 892.857239
+[2023.11.29-01.29.23:499][ 55]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 697.978455
+[2023.11.29-01.29.24:537][121]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 1053.154663
+[2023.11.29-01.29.24:722][133]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 1133.927368
+[2023.11.29-01.29.25:285][169]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 1396.68811
+[2023.11.29-01.29.25:872][207]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 1600.275024
+[2023.11.29-01.29.26:082][220]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 1503.507202
+[2023.11.29-01.29.26:607][254]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 1256.971069
+[2023.11.29-01.29.26:925][274]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 1106.85083
+[2023.11.29-01.29.27:187][291]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 1042.554199
+[2023.11.29-01.29.27:755][327]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 694.554199
+[2023.11.29-01.29.28:001][343]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 620.399109
+[2023.11.29-01.29.28:718][389]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 1023.174316
+[2023.11.29-01.29.29:451][436]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 1347.383911
+[2023.11.29-01.29.29:677][450]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 1498.626709
+[2023.11.29-01.29.29:969][469]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 1631.650513
+[2023.11.29-01.29.30:324][492]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 1506.598877
+[2023.11.29-01.29.30:567][507]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 1394.689575
+[2023.11.29-01.29.30:799][522]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] 1283.299683
+[2023.11.29-01.29.30:902][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.29.30:902][527]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-01.29.30:903][527]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.29.30:914][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.29.30:918][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-01.29.30:925][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.29.30:950][527]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.29-01.29.30:951][527]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.11.29-01.29.30:951][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.11.29-01.29.30:952][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.11.29-01.29.30:957][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.29.30:974][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.11.29-01.29.31:023][528]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.11.29-01.29.36:047][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.29.36:096][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.29.36:110][830]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.29.36:112][830]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIAF42F1874301CE50FCEA8E9AD8844C08.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.29.36:117][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 7.44 sec)
+[2023.11.29-01.29.36:122][830]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.29.36:122][830]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.30.04:544][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.30.04:591][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.30.04:605][254]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.30.04:605][254]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI3AD3C6E04123933FFB7210873972FBED.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.30.04:611][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 7.50 sec)
+[2023.11.29-01.30.04:632][254]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.30.04:632][254]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.30.11:506][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.30.11:556][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.30.11:570][675]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.30.11:570][675]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI989900414A904EEE19631BAF0E317224.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.30.11:576][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 7.57 sec)
+[2023.11.29-01.30.11:578][675]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.30.11:578][675]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.30.17:262][  8]LogEditorTransaction: Undo Rename Node
+[2023.11.29-01.30.17:711][ 20]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2023.11.29-01.30.18:098][ 40]LogEditorTransaction: Undo Delete current selection
+[2023.11.29-01.30.18:838][ 84]LogEditorTransaction: Undo Move Node
+[2023.11.29-01.30.19:091][ 96]LogEditorTransaction: Undo Move Node
+[2023.11.29-01.30.19:300][105]LogEditorTransaction: Undo Delete current selection
+[2023.11.29-01.30.19:536][116]LogEditorTransaction: Undo Create Reroute Node
+[2023.11.29-01.30.19:757][126]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-01.30.20:038][140]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-01.30.20:273][151]LogEditorTransaction: Undo Add Node
+[2023.11.29-01.30.20:507][162]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-01.30.20:740][173]LogEditorTransaction: Undo Split Struct Pin
+[2023.11.29-01.30.30:019][739]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.30.30:064][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.11.29-01.30.31:928][848]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-01.30.31:938][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-01.30.31:938][848]PIE: New page: PIE session: CS205 (30/11/2023, 3:30:31 am)
+[2023.11.29-01.30.31:938][848]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-01.30.32:055][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117196s)
+[2023.11.29-01.30.32:055][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.117239s)
+[2023.11.29-01.30.32:071][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.29-01.30.32:077][848]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-01.30.32:077][848]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-01.30.32:078][848]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-01.30.32:078][848]LogPlayLevel: PIE: World Init took: (0.001336s)
+[2023.11.29-01.30.32:079][848]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.11.29-01.30.32:079][848]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-01.30.32:079][848]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-01.30.32:079][848]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-01.30.32:079][848]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-01.30.32:079][848]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-01.30.32:079][848]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-01.30.32:079][848]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-01.30.32:079][848]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-01.30.32:079][848]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-01.30.32:079][848]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-01.30.32:079][848]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-01.30.32:081][848]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-01.30.32:102][848]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-01.30.32:102][848]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-01.30.32:102][848]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-01.30.32:102][848]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-01.30.32:103][848]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.11.29-01.30.32:103][848]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.11.29-01.30.32:105][848]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.11.29-01.30.32:105][848]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.11.29-01.30.32:105][848]LogInit: FAudioDevice initialized with ID 23.
+[2023.11.29-01.30.32:105][848]LogAudio: Display: Audio Device (ID: 23) registered with world 'CS205'.
+[2023.11.29-01.30.32:105][848]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2023.11.29-01.30.32:108][848]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-01.30.32:171][848]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-14.30.32
+[2023.11.29-01.30.32:176][848]LogWorld: Bringing up level for play took: 0.067669
+[2023.11.29-01.30.32:178][848]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.11.29-01.30.32:181][848]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.30.32:181][848]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.30.32:181][848]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-01.30.32:183][848]PIE: Server logged in
+[2023.11.29-01.30.32:184][848]PIE: Play in editor total start time 0.247 seconds.
+[2023.11.29-01.30.32:189][848]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-01.30.33:127][890]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-01.30.33:127][890]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-01.30.42:156][499]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.30.42:157][499]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.30.42:157][499]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.29-01.30.44:632][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.30.44:632][661]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-01.30.44:633][661]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.30.44:643][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.30.44:646][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-01.30.44:655][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.30.44:680][661]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.29-01.30.44:680][661]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2023.11.29-01.30.44:680][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.11.29-01.30.44:682][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.11.29-01.30.44:686][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.30.44:703][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.29-01.30.44:740][662]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.11.29-01.30.48:010][851]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.30.48:048][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.29-01.30.49:682][946]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-01.30.49:694][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-01.30.49:694][946]PIE: New page: PIE session: CS205 (30/11/2023, 3:30:49 am)
+[2023.11.29-01.30.49:721][946]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-01.30.49:836][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114338s)
+[2023.11.29-01.30.49:836][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.114382s)
+[2023.11.29-01.30.49:853][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.29-01.30.49:860][946]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-01.30.49:860][946]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-01.30.49:861][946]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-01.30.49:861][946]LogPlayLevel: PIE: World Init took: (0.001336s)
+[2023.11.29-01.30.49:861][946]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.11.29-01.30.49:861][946]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-01.30.49:861][946]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-01.30.49:861][946]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-01.30.49:861][946]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-01.30.49:861][946]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-01.30.49:861][946]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-01.30.49:861][946]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-01.30.49:862][946]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-01.30.49:862][946]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-01.30.49:862][946]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-01.30.49:862][946]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-01.30.49:864][946]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-01.30.49:885][946]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-01.30.49:885][946]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-01.30.49:885][946]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-01.30.49:885][946]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-01.30.49:886][946]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.11.29-01.30.49:886][946]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.11.29-01.30.49:888][946]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.11.29-01.30.49:888][946]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.11.29-01.30.49:888][946]LogInit: FAudioDevice initialized with ID 24.
+[2023.11.29-01.30.49:888][946]LogAudio: Display: Audio Device (ID: 24) registered with world 'CS205'.
+[2023.11.29-01.30.49:888][946]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2023.11.29-01.30.49:890][946]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-01.30.49:952][946]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-14.30.49
+[2023.11.29-01.30.49:957][946]LogWorld: Bringing up level for play took: 0.066457
+[2023.11.29-01.30.49:959][946]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.11.29-01.30.49:962][946]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.30.49:962][946]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.30.49:962][946]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-01.30.49:964][946]PIE: Server logged in
+[2023.11.29-01.30.49:965][946]PIE: Play in editor total start time 0.272 seconds.
+[2023.11.29-01.30.49:971][946]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-01.30.50:815][983]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-01.30.50:815][983]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-01.31.00:217][618]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.31.00:217][618]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.31.00:217][618]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.29-01.31.00:728][652]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=904.211 Y=784.000
+[2023.11.29-01.31.00:947][667]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=753.751 Y=784.000
+[2023.11.29-01.31.01:147][680]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=634.293 Y=784.000
+[2023.11.29-01.31.01:663][715]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=861.610 Y=784.000
+[2023.11.29-01.31.02:040][740]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1044.118 Y=784.000
+[2023.11.29-01.31.02:216][752]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1121.129 Y=784.000
+[2023.11.29-01.31.02:757][788]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1363.660 Y=784.000
+[2023.11.29-01.31.02:992][804]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1530.694 Y=784.000
+[2023.11.29-01.31.03:577][843]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1516.630 Y=784.000
+[2023.11.29-01.31.03:812][859]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1408.310 Y=784.000
+[2023.11.29-01.31.04:035][874]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1302.312 Y=784.000
+[2023.11.29-01.31.04:326][893]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1158.574 Y=784.000
+[2023.11.29-01.31.04:593][911]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1087.271 Y=784.000
+[2023.11.29-01.31.04:862][929]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=965.244 Y=784.000
+[2023.11.29-01.31.05:121][946]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=811.361 Y=784.000
+[2023.11.29-01.31.05:371][963]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=641.992 Y=784.000
+[2023.11.29-01.31.05:662][982]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=676.623 Y=784.000
+[2023.11.29-01.31.05:927][  0]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=871.197 Y=784.000
+[2023.11.29-01.31.06:178][ 17]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=995.037 Y=784.000
+[2023.11.29-01.31.06:394][ 31]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1086.559 Y=784.000
+[2023.11.29-01.31.06:588][ 44]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1175.021 Y=784.000
+[2023.11.29-01.31.06:807][ 59]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1269.978 Y=784.000
+[2023.11.29-01.31.08:766][190]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1102.059 Y=784.000
+[2023.11.29-01.31.10:436][301]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=998.821 Y=784.000
+[2023.11.29-01.31.10:678][317]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1104.805 Y=784.000
+[2023.11.29-01.31.11:132][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.31.11:132][345]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-01.31.11:133][345]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.31.11:143][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.31.11:147][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-01.31.11:153][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.31.11:175][345]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.29-01.31.11:176][345]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2023.11.29-01.31.11:176][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.11.29-01.31.11:177][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.11.29-01.31.11:182][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.31.11:198][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.29-01.31.11:237][346]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.11.29-01.31.12:548][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.31.12:595][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.31.12:609][418]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.31.12:610][418]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI6723FE99487684C6ADABD2902B161165.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.31.12:616][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 7.64 sec)
+[2023.11.29-01.31.12:618][418]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.31.12:618][418]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.31.16:314][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.31.16:356][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.31.16:371][670]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.31.16:371][670]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI369A5DD54F3885FC436BC4B7ADB10750.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.31.16:381][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 7.71 sec)
+[2023.11.29-01.31.16:383][670]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.31.16:383][670]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.31.55:500][977]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.31.55:538][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.11.29-01.31.56:585][ 29]LogSlate: Window 'FishingMiniGame_UI' being destroyed
+[2023.11.29-01.31.56:589][ 29]LogSlate: Window 'FishingMiniGame_UI' being destroyed
+[2023.11.29-01.31.56:622][ 29]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.31.56:622][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.31.56:861][ 29]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.11.29-01.31.56:862][ 29]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.31.56:862][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.31.57:002][ 29]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.31.57:002][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.31.57:106][ 29]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.31.57:106][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.31.57:116][ 29]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.31.57:116][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.31.57:330][ 29]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.31.57:330][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.31.57:340][ 29]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.31.57:340][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.31.57:484][ 29]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.31.57:485][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.31.57:495][ 29]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.31.57:495][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.31.57:555][ 29]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.31.57:555][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.31.57:565][ 29]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.31.57:565][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.31.58:422][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.11.29-01.31.58:471][ 86]LogStall: Shutdown...
+[2023.11.29-01.31.58:479][ 86]LogStall: Shutdown complete.
+[2023.11.29-01.31.58:525][ 86]LogSlate: Window 'cs205 - Unreal Editor' being destroyed
+[2023.11.29-01.31.58:872][ 87]Cmd: QUIT_EDITOR
+[2023.11.29-01.31.58:872][ 87]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.11.29-01.31.58:909][ 87]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.11.29-01.31.58:909][ 87]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.11.29-01.31.58:909][ 87]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.11.29-01.31.59:005][ 87]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.31.59:005][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.31.59:418][ 87]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.11.29-01.32.00:238][ 87]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.11.29-01.32.00:238][ 87]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.11.29-01.32.00:238][ 87]LogAudio: Display: Audio Device unregistered from world 'CS205'.
+[2023.11.29-01.32.00:238][ 87]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.11.29-01.32.00:238][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.11.29-01.32.00:241][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.11.29-01.32.00:254][ 87]LogAudio: Display: Audio Device Manager Shutdown
+[2023.11.29-01.32.00:254][ 87]LogWindowsTextInputMethodSystem: Activated input method: English (New Zealand) - (Keyboard).
+[2023.11.29-01.32.00:284][ 87]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.11.29-01.32.00:295][ 87]LogExit: Preparing to exit.
+[2023.11.29-01.32.00:695][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.29-01.32.00:726][ 87]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:726][ 87]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:729][ 87]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:729][ 87]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:729][ 87]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:729][ 87]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:729][ 87]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:729][ 87]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:729][ 87]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:729][ 87]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:729][ 87]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:729][ 87]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:730][ 87]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:730][ 87]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:730][ 87]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:730][ 87]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:730][ 87]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:730][ 87]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:730][ 87]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.00:730][ 87]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-01.32.02:114][ 87]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.32.02:118][ 87]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.32.02:120][ 87]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.32.03:221][ 87]LogExit: Editor shut down
+[2023.11.29-01.32.03:233][ 87]LogExit: Transaction tracking system shut down
+[2023.11.29-01.32.03:332][ 87]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.11.29-01.32.07:542][ 87]LogExit: Object subsystem successfully closed.
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: ================================================
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Total job queries 151, among them cache hits 38 (25.17%)
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Tracking 113 distinct input hashes that result in 70 distinct outputs (61.95%)
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: RAM used: 2.45 MiB of 819.20 MiB budget. Usage: 0.30%
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Shaders Compiled: 3
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Average time worker was idle: 3.93 s
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.11 s
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Job execution time: average 1.28 s, max 2.81 s
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Job life time (pending + execution): average 1.37 s, max 2.86
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Shader code size: average 35.234 KiB, min 29.656 KiB, max 38.027 KiB
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.69 s
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Average processing rate: 0.81 jobs/sec
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Total thread time: 0.722 s
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Total thread preprocess time: 0.085 s
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Percentage time preprocessing: 11.74%
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Effective parallelization: 0.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.09 sec, max 0.09 sec, min 0.09 sec)
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.85% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.44% of total time (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 26.82% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 12.89% of total time (compiled    1 times, average 0.09 sec, max 0.09 sec, min 0.09 sec)
+[2023.11.29-01.32.07:549][ 87]LogShaderCompilers: Display: ================================================
+[2023.11.29-01.32.07:559][ 87]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.11.29-01.32.07:638][ 87]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.11.29-01.32.07:836][ 87]LogVirtualization: UE::Virtualization was shutdown
