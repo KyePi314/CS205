@@ -1949,3 +1949,1513 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.29-00.20.25:167][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1.16 sec)
 [2023.11.29-00.20.25:169][572]AssetCheck: New page: Asset Save: FishingMiniGame_UI
 [2023.11.29-00.20.25:169][572]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.21.32:581][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.21.32:628][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.21.32:639][ 33]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.21.32:640][ 33]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIF93E81F44B16820C2BBE488D3F450091.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.21.32:646][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1.23 sec)
+[2023.11.29-00.21.32:647][ 33]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.21.32:647][ 33]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.21.35:176][210]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.21.35:208][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.11.29-00.21.52:117][366]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.21.52:156][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.21.52:166][366]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.21.52:167][366]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI84925F9C4230B40269C3D59052AF42FF.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.21.52:172][366]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 1.28 sec)
+[2023.11.29-00.21.52:174][366]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.21.52:174][366]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.23.02:759][292]LogEditorTransaction: Undo Move Widget
+[2023.11.29-00.23.23:332][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.23.23:381][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.23.23:392][661]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.23.23:393][661]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI1822EAD840AD9066672B478ACE9D6124.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.23.23:398][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1.35 sec)
+[2023.11.29-00.23.23:400][661]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.23.23:400][661]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.23.30:217][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.23.30:265][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.23.30:276][129]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.23.30:276][129]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI6A7DCC6F489E9C814EEBD1A0923C2527.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.23.30:282][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 1.41 sec)
+[2023.11.29-00.23.30:283][129]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.23.30:283][129]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.23.54:708][819]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.54:709][819]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.54:712][819]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.54:762][820]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.54:764][820]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.54:765][820]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.54:774][820]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.54:788][821]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.54:837][822]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.54:847][822]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.54:860][823]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.54:905][824]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.54:930][825]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.54:934][825]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.54:980][826]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.54:990][826]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:004][827]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:005][827]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:054][828]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:056][828]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:065][828]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:079][829]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:082][829]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:129][830]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:151][831]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:152][831]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:153][831]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:156][831]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:204][832]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:214][832]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:228][833]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:277][834]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:287][834]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:301][835]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:305][835]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:351][836]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:375][837]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:430][838]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:496][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:512][841]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:581][843]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.55:635][844]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.23.58:241][ 21]LogEditorTransaction: Undo Add Widget
+[2023.11.29-00.24.21:525][603]LogSlate: Took 0.048734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.11.29-00.24.25:770][893]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.29-00.24.53:066][708]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:068][708]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:071][708]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:128][709]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:148][710]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:152][710]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:200][711]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:208][711]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:220][712]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:234][713]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:237][713]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:250][714]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:275][716]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:287][717]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:309][719]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:312][719]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:325][720]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:348][722]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:362][723]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:390][725]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:401][726]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:404][726]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:431][728]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:443][729]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:446][729]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:471][731]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:474][731]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:487][732]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:490][732]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:501][733]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:515][734]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:518][734]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:528][735]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:531][735]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:544][736]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:557][737]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:560][737]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:571][738]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:574][738]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:586][739]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:602][740]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:613][741]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:616][741]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:643][743]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:657][744]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:685][746]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.53:698][747]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:354][857]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:355][857]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:356][857]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:357][857]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:358][857]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:361][857]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:414][858]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:422][858]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:435][859]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:448][860]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:451][860]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:465][861]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:494][862]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:507][863]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:510][863]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:522][864]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:525][864]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:536][865]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:549][866]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:552][866]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:564][867]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:567][867]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:578][868]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:591][869]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:595][869]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:607][870]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:610][870]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:620][871]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:634][872]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:637][872]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:649][873]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:675][875]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:678][875]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:689][876]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:692][876]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:703][877]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:717][878]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:721][878]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:736][879]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:740][879]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:754][880]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:772][881]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:775][881]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:787][882]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:790][882]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:801][883]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:814][884]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:818][884]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:829][885]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:830][885]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:833][885]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:844][886]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:844][886]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:859][887]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:863][887]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:874][888]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:878][888]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:890][889]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:891][889]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:905][890]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:908][890]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:919][891]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:922][891]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:933][892]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:946][893]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:949][893]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:959][894]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:962][894]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:973][895]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:986][896]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.55:990][896]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:002][897]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:027][899]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:038][900]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:063][902]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:076][903]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:099][905]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:112][906]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:140][908]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:152][909]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:155][909]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:167][910]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:180][911]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:183][911]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:196][912]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:199][912]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:210][913]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:211][913]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.24.56:224][914]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.25.22:976][778]LogEditorTransaction: Undo Set Vector Property
+[2023.11.29-00.25.26:298][987]LogEditorTransaction: Undo Set Vector Property
+[2023.11.29-00.25.45:691][326]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.25.45:728][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.11.29-00.25.53:773][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.25.53:818][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.25.53:830][873]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.25.53:830][873]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI0EF11BEB4554CBAD9B62C29C682F1975.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.25.53:836][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.48 sec)
+[2023.11.29-00.25.53:837][873]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.25.53:837][873]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.26.12:802][191]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.26.12:838][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.29-00.26.14:107][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.26.14:157][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.26.14:168][268]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.26.14:169][268]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIF21E220049897A911083AD859F7EADCB.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.26.14:175][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.55 sec)
+[2023.11.29-00.26.14:176][268]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.26.14:176][268]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.27.00:814][502]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.29-00.27.05:306][803]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:307][803]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:310][803]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:367][804]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:388][805]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:391][805]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:402][806]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:405][806]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:444][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:445][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:448][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:461][809]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:473][810]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:489][811]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:500][812]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:503][812]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:527][814]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:531][814]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:545][815]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:572][817]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:586][818]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:614][820]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:628][821]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.05:657][823]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:647][842]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:648][842]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:713][843]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:722][843]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:735][844]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:738][844]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:749][845]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:762][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:778][847]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:781][847]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:792][848]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:806][849]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:807][849]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:810][849]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:821][850]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:824][850]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:835][851]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:850][852]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:861][853]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:864][853]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:891][855]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:905][856]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:933][858]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:947][859]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:976][861]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.20:989][862]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:018][864]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:031][865]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:058][867]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:061][867]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:073][868]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:076][868]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:087][869]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:101][870]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:104][870]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:115][871]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:118][871]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:129][872]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:143][873]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:146][873]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:165][874]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:173][874]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:180][874]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:187][874]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:193][874]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:203][874]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:268][875]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:275][875]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:304][876]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:311][876]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:318][876]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:318][876]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:322][876]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:378][877]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:387][877]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:399][878]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:413][879]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:416][879]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.21:427][880]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.25:921][171]LogEditorTransaction: Undo Move Widget
+[2023.11.29-00.27.32:815][623]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.32:817][623]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.32:821][623]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.32:876][624]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.32:885][624]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.32:897][625]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.32:953][626]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.32:961][626]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.32:976][627]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.32:979][627]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.32:993][628]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:007][629]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:010][629]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:021][630]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:024][630]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:036][631]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:050][632]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:053][632]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:065][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:068][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:079][634]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:092][635]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:095][635]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:105][636]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:108][636]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:131][638]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:134][638]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:147][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:157][640]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:173][641]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:187][642]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:212][644]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:224][645]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:248][647]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:260][648]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:285][650]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:297][651]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:322][653]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:325][653]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:340][654]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:350][655]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:364][656]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:367][656]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:378][657]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:381][657]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:391][658]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:407][659]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:419][660]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:422][660]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.33:433][661]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.43:053][292]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.11.29-00.27.44:763][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:770][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:777][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:783][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:790][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:797][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:804][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:810][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:817][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:824][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:831][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:837][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:844][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:850][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:857][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:863][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:870][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:877][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:883][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:890][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:897][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:903][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:910][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:916][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:923][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:930][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:936][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:943][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:950][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:956][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:963][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:969][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:976][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:983][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:989][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.44:996][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:002][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:010][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:016][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:023][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:029][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:036][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:042][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:049][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:056][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:062][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:069][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:078][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:173][385]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:236][386]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:253][386]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:271][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:278][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:285][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:291][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:298][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:304][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:311][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:317][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:324][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:331][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:338][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:345][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:351][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:358][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:364][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:371][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:377][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:384][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:391][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:397][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:404][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:410][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:417][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:424][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:430][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:437][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:443][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:450][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:456][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:463][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:470][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:471][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:472][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:473][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:534][388]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:544][388]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:559][389]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:562][389]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:621][390]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:643][391]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:647][391]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:704][392]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:713][392]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:726][393]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:796][394]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.27.45:813][395]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.29-00.28.08:328][842]LogEditorTransaction: Undo Remove Widget
+[2023.11.29-00.28.13:036][145]LogEditorTransaction: Undo Move Widget
+[2023.11.29-00.28.13:301][149]LogEditorTransaction: Undo Move Widget
+[2023.11.29-00.28.13:511][151]LogEditorTransaction: Undo Move Widget
+[2023.11.29-00.28.14:670][226]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.11.29-00.28.14:948][238]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.11.29-00.28.15:201][248]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.11.29-00.28.15:397][254]LogEditorTransaction: Undo Move Widget
+[2023.11.29-00.28.15:674][265]LogEditorTransaction: Undo Edit Stretch
+[2023.11.29-00.28.15:950][277]LogEditorTransaction: Undo Edit Stretch
+[2023.11.29-00.28.16:236][290]LogEditorTransaction: Undo Edit Stretch
+[2023.11.29-00.28.16:486][300]LogEditorTransaction: Undo Edit Color and Opacity
+[2023.11.29-00.28.16:733][309]LogEditorTransaction: Undo Add Widget
+[2023.11.29-00.28.17:021][313]LogEditorTransaction: Undo Remove Widget
+[2023.11.29-00.28.17:230][315]LogEditorTransaction: Undo Add Widget
+[2023.11.29-00.28.17:477][323]LogEditorTransaction: Undo Remove Widget
+[2023.11.29-00.28.17:815][340]LogEditorTransaction: Undo Edit X
+[2023.11.29-00.28.18:273][366]LogEditorTransaction: Undo Set Vector Property
+[2023.11.29-00.28.18:694][389]LogEditorTransaction: Undo Edit X
+[2023.11.29-00.28.19:010][404]LogEditorTransaction: Undo Edit X
+[2023.11.29-00.28.19:525][434]LogEditorTransaction: Undo Rename Widget
+[2023.11.29-00.28.19:891][453]LogEditorTransaction: Undo Variable Toggle
+[2023.11.29-00.28.20:786][509]LogEditorTransaction: Undo Rename Widget
+[2023.11.29-00.28.21:151][515]LogEditorTransaction: Undo Edit X
+[2023.11.29-00.28.21:427][522]LogEditorTransaction: Undo Set Vector Property
+[2023.11.29-00.28.21:701][534]LogEditorTransaction: Undo Edit X
+[2023.11.29-00.28.22:074][554]LogEditorTransaction: Undo Edit X
+[2023.11.29-00.28.22:450][574]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.11.29-00.28.22:889][597]LogEditorTransaction: Undo Move Widget
+[2023.11.29-00.28.23:216][613]LogEditorTransaction: Undo Move Widget
+[2023.11.29-00.28.24:003][662]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.11.29-00.28.24:755][707]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.11.29-00.28.25:246][718]LogEditorTransaction: Undo Move Widget
+[2023.11.29-00.28.25:690][741]LogEditorTransaction: Undo Edit Color and Opacity
+[2023.11.29-00.28.26:102][763]LogEditorTransaction: Undo Add Widget
+[2023.11.29-00.28.26:423][779]LogEditorTransaction: Undo Move Widget
+[2023.11.29-00.28.26:734][792]LogEditorTransaction: Undo Add Widget
+[2023.11.29-00.28.27:033][803]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.11.29-00.28.27:297][813]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2023.11.29-00.28.27:567][824]LogEditorTransaction: Undo Move Widget
+[2023.11.29-00.28.27:845][834]LogEditorTransaction: Undo Resize Widget
+[2023.11.29-00.28.28:126][844]LogEditorTransaction: Undo Resize Widget
+[2023.11.29-00.28.29:430][928]LogEditorTransaction: Undo Resize Widget
+[2023.11.29-00.28.29:978][943]LogEditorTransaction: Undo Resize Widget
+[2023.11.29-00.28.30:512][974]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.11.29-00.28.30:903][994]LogEditorTransaction: Undo Add Widget
+[2023.11.29-00.28.32:234][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.28.32:280][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.28.32:298][ 81]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.28.32:298][ 81]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIC901B37145AAB63BC26F139991F86096.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.28.32:305][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1.62 sec)
+[2023.11.29-00.28.32:306][ 81]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.28.32:306][ 81]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.28.34:112][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.28.34:159][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.28.34:171][210]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.28.34:171][210]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIE3484E7A462810934DA2088C4BF9EBE2.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.28.34:177][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1.68 sec)
+[2023.11.29-00.28.34:178][210]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.28.34:178][210]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.28.56:234][706]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.29-00.29.11:200][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.29.11:230][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.29.11:245][626]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.29.11:246][626]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI3A10005D47A9FF2B465C87B26E85A351.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.29.11:252][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 1.73 sec)
+[2023.11.29-00.29.11:253][626]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.29.11:253][626]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.29.34:163][750]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.29.34:216][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.29-00.30.06:361][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.29-00.30.06:364][345]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CS205' took 0.018
+[2023.11.29-00.30.06:365][345]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MiniGames/FishingMiniGame_UI] ([2] browsable assets)...
+[2023.11.29-00.30.06:369][345]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI]
+[2023.11.29-00.30.06:369][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGames/FishingMiniGame_UI]
+[2023.11.29-00.30.06:381][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MiniGames/FishingMiniGame_UI_Auto2
+[2023.11.29-00.30.06:381][345]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI_Auto2E2436A1647926E480ABF45A8C081DF2C.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/Autosaves/Game/MiniGames/FishingMiniGame_UI_Auto2.uasset'
+[2023.11.29-00.30.06:382][345]LogFileHelpers: Auto-saving content packages took 0.018
+[2023.11.29-00.32.01:843][359]LogEditorTransaction: Undo Move Node
+[2023.11.29-00.32.05:406][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.32.05:468][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.32.05:480][589]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.32.05:481][589]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI05E41E7D43B498543429C388C2921075.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.32.05:488][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.81 sec)
+[2023.11.29-00.32.05:490][589]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.32.05:490][589]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.32.29:514][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.32.29:569][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.32.29:581][219]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.32.29:582][219]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIC463074449F3750C7D7BD39E5B4CD964.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.32.29:587][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 1.89 sec)
+[2023.11.29-00.32.29:590][219]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.32.29:590][219]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.37.14:033][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.37.14:082][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.37.14:095][308]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.37.14:096][308]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIA4E228404AF916A53D2AEB8D536C9A9D.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.37.14:102][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.95 sec)
+[2023.11.29-00.37.14:103][308]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.37.14:103][308]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.37.14:877][360]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.37.14:900][360]LogBlueprint: Warning: [AssetLog] C:\Users\kyess\Documents\SchoolProjects2023\CS205\cs205\Content\MiniGames\FishingMiniGame_UI.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2023.11.29-00.37.14:933][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.11.29-00.37.25:439][ 56]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.37.25:445][ 56]LogBlueprint: Warning: [AssetLog] C:\Users\kyess\Documents\SchoolProjects2023\CS205\cs205\Content\MiniGames\FishingMiniGame_UI.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2023.11.29-00.37.25:465][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.11.29-00.37.26:938][151]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-00.37.27:406][164]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-00.37.27:738][183]LogEditorTransaction: Undo Move Node
+[2023.11.29-00.37.28:413][228]LogEditorTransaction: Undo Delete current selection
+[2023.11.29-00.37.28:860][256]LogEditorTransaction: Undo Create Reroute Node
+[2023.11.29-00.37.29:266][281]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-00.37.29:667][306]LogEditorTransaction: Undo Move Node
+[2023.11.29-00.37.30:112][334]LogEditorTransaction: Undo Add Node
+[2023.11.29-00.37.31:534][426]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.37.31:538][426]LogBlueprint: Warning: [AssetLog] C:\Users\kyess\Documents\SchoolProjects2023\CS205\cs205\Content\MiniGames\FishingMiniGame_UI.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2023.11.29-00.37.31:561][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.29-00.37.32:259][468]LogEditorTransaction: Undo Move Node
+[2023.11.29-00.37.32:815][486]LogEditorTransaction: Undo Move Node
+[2023.11.29-00.37.33:223][512]LogEditorTransaction: Undo Add Node
+[2023.11.29-00.37.33:768][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.37.33:818][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.37.33:830][548]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.37.33:831][548]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIEF195E1D4985DAB141CD1D8989A56908.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.37.33:839][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 2.03 sec)
+[2023.11.29-00.37.33:840][548]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.37.33:840][548]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.37.34:144][571]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.37.34:150][571]LogBlueprint: Warning: [AssetLog] C:\Users\kyess\Documents\SchoolProjects2023\CS205\cs205\Content\MiniGames\FishingMiniGame_UI.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2023.11.29-00.37.34:179][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.29-00.37.34:974][621]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.37.34:981][621]LogBlueprint: Warning: [AssetLog] C:\Users\kyess\Documents\SchoolProjects2023\CS205\cs205\Content\MiniGames\FishingMiniGame_UI.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2023.11.29-00.37.35:003][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.11.29-00.37.46:531][409]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.37.46:537][409]LogBlueprint: Warning: [AssetLog] C:\Users\kyess\Documents\SchoolProjects2023\CS205\cs205\Content\MiniGames\FishingMiniGame_UI.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2023.11.29-00.37.46:561][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.29-00.37.52:954][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.37.53:003][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.37.53:016][843]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.37.53:017][843]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI7E12D6FE4390ADB8AAEF86B932A3D49A.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.37.53:025][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2.10 sec)
+[2023.11.29-00.37.53:026][843]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.37.53:026][843]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.37.54:653][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.37.54:691][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.37.54:703][954]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.37.54:704][954]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI76F9F2874F59788CEFBF66AAAF720439.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.37.54:710][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 2.15 sec)
+[2023.11.29-00.37.54:712][954]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.37.54:712][954]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.38.01:482][395]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.38.01:488][395]LogBlueprint: Error: [AssetLog] C:\Users\kyess\Documents\SchoolProjects2023\CS205\cs205\Content\MiniGames\FishingMiniGame_UI.uasset: [Compiler] Binding: Property ' /Script/UMG.Image:OnMouseButtonDownEvent ' on Widget ' Image_276 ': Binding: 'None' : 'None' was not found on 'Fishing Mini Game UI'.
+[2023.11.29-00.38.01:516][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.29-00.38.02:449][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.38.02:493][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.38.02:505][454]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.38.02:505][454]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI8D26295641383307568B2E84DF554C1B.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.38.02:511][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 2.22 sec)
+[2023.11.29-00.38.02:512][454]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.38.02:512][454]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.38.06:990][773]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_276), cannot focus it
+[2023.11.29-00.38.08:436][874]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_276), cannot focus it
+[2023.11.29-00.38.08:963][912]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_276), cannot focus it
+[2023.11.29-00.38.09:409][944]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_276), cannot focus it
+[2023.11.29-00.38.10:959][ 55]LogEditorTransaction: Undo Remove Graph
+[2023.11.29-00.38.12:641][153]LogEditorTransaction: Undo Delete current selection
+[2023.11.29-00.38.13:201][189]LogEditorTransaction: Undo Move Node
+[2023.11.29-00.38.14:289][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.38.14:336][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.38.14:348][262]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.38.14:349][262]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI6EED3136434E551AE3D8C4A078B72242.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.38.14:356][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.28 sec)
+[2023.11.29-00.38.14:358][262]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.38.14:358][262]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.38.15:133][316]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.38.15:138][316]LogBlueprint: Warning: [AssetLog] C:\Users\kyess\Documents\SchoolProjects2023\CS205\cs205\Content\MiniGames\FishingMiniGame_UI.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2023.11.29-00.38.15:170][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.11.29-00.38.18:884][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.38.18:924][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.38.18:938][571]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.38.18:938][571]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI3ECE9BA34315E4328EAF7D80D81E6F90.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.38.18:944][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 2.34 sec)
+[2023.11.29-00.38.18:946][571]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.38.18:946][571]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.38.28:062][187]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.38.28:112][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.38.28:124][187]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.38.28:125][187]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI9D1B2A2F43288246088092A6E1416F16.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.38.28:130][187]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 2.41 sec)
+[2023.11.29-00.38.28:132][187]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.38.28:132][187]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.38.29:140][253]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.38.29:146][253]LogBlueprint: Warning: [AssetLog] C:\Users\kyess\Documents\SchoolProjects2023\CS205\cs205\Content\MiniGames\FishingMiniGame_UI.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2023.11.29-00.38.29:175][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.29-00.38.33:009][492]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.38.33:037][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.29-00.38.33:825][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.38.33:872][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.38.33:884][539]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.38.33:884][539]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI3AB2DCCF4414627E5F822F894DA4E88A.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.38.33:891][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 2.48 sec)
+[2023.11.29-00.38.33:892][539]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.38.33:892][539]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.39.44:836][178]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.39.44:884][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.39.44:895][178]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.39.44:896][178]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI60AF81244BEE497E18EB40A76A8F5DD1.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.39.44:902][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 2.54 sec)
+[2023.11.29-00.39.44:904][178]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.39.44:904][178]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.40.38:990][955]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.40.39:025][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.11.29-00.41.07:198][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.11.29-00.41.07:201][277]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CS205' took 0.019
+[2023.11.29-00.41.07:201][277]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MiniGames/FishingMiniGame_UI] ([2] browsable assets)...
+[2023.11.29-00.41.07:205][277]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI]
+[2023.11.29-00.41.07:205][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGames/FishingMiniGame_UI]
+[2023.11.29-00.41.07:218][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MiniGames/FishingMiniGame_UI_Auto3
+[2023.11.29-00.41.07:218][277]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI_Auto326C0AE6A46F7277F7DA0DEB81942A504.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/Autosaves/Game/MiniGames/FishingMiniGame_UI_Auto3.uasset'
+[2023.11.29-00.41.07:219][277]LogFileHelpers: Auto-saving content packages took 0.019
+[2023.11.29-00.42.10:875][709]LogEditorTransaction: Undo Add Node
+[2023.11.29-00.42.11:275][721]LogEditorTransaction: Undo Move Node
+[2023.11.29-00.42.11:660][744]LogEditorTransaction: Undo Create Binding
+[2023.11.29-00.42.12:919][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.42.12:970][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.42.12:982][831]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.42.12:982][831]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI027225F949A679259E10ABA04B24E8D4.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.42.12:990][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 2.61 sec)
+[2023.11.29-00.42.12:991][831]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.42.12:991][831]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.45.54:352][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.45.54:398][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.45.54:409][348]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.45.54:410][348]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI4FE9A2D74AE4CB04612629A6FFA3BB9E.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.45.54:416][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.67 sec)
+[2023.11.29-00.45.54:417][348]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.45.54:417][348]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.46.44:629][345]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.46.44:666][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.29-00.47.16:308][458]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.47.16:335][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.11.29-00.47.17:507][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.47.17:540][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.47.17:553][530]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.47.17:553][530]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIFBE3CD6A409B7FDB4104A296EF3A5A68.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.47.17:560][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 2.73 sec)
+[2023.11.29-00.47.17:757][530]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-00.47.17:757][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-00.47.17:766][530]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-00.47.17:766][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-00.47.17:829][530]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.47.17:829][530]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.47.23:081][911]LogViewport: Scene viewport resized to 1544x867, mode Windowed.
+[2023.11.29-00.47.23:125][912]LogViewport: Scene viewport resized to 1544x851, mode Windowed.
+[2023.11.29-00.47.23:156][913]LogViewport: Scene viewport resized to 1544x821, mode Windowed.
+[2023.11.29-00.47.23:185][914]LogViewport: Scene viewport resized to 1544x775, mode Windowed.
+[2023.11.29-00.47.23:216][915]LogViewport: Scene viewport resized to 1544x716, mode Windowed.
+[2023.11.29-00.47.23:247][916]LogViewport: Scene viewport resized to 1544x659, mode Windowed.
+[2023.11.29-00.47.23:281][917]LogViewport: Scene viewport resized to 1544x601, mode Windowed.
+[2023.11.29-00.47.23:309][918]LogViewport: Scene viewport resized to 1544x552, mode Windowed.
+[2023.11.29-00.47.23:340][919]LogViewport: Scene viewport resized to 1544x508, mode Windowed.
+[2023.11.29-00.47.23:371][920]LogViewport: Scene viewport resized to 1544x462, mode Windowed.
+[2023.11.29-00.47.23:407][921]LogViewport: Scene viewport resized to 1544x426, mode Windowed.
+[2023.11.29-00.47.23:435][922]LogViewport: Scene viewport resized to 1544x407, mode Windowed.
+[2023.11.29-00.47.23:462][923]LogViewport: Scene viewport resized to 1544x398, mode Windowed.
+[2023.11.29-00.47.23:490][924]LogViewport: Scene viewport resized to 1544x397, mode Windowed.
+[2023.11.29-00.47.23:780][951]LogViewport: Scene viewport resized to 1544x399, mode Windowed.
+[2023.11.29-00.47.23:821][952]LogViewport: Scene viewport resized to 1544x406, mode Windowed.
+[2023.11.29-00.47.23:849][953]LogViewport: Scene viewport resized to 1544x417, mode Windowed.
+[2023.11.29-00.47.23:877][954]LogViewport: Scene viewport resized to 1544x428, mode Windowed.
+[2023.11.29-00.47.23:906][955]LogViewport: Scene viewport resized to 1544x434, mode Windowed.
+[2023.11.29-00.47.23:934][956]LogViewport: Scene viewport resized to 1544x437, mode Windowed.
+[2023.11.29-00.47.23:960][957]LogViewport: Scene viewport resized to 1544x439, mode Windowed.
+[2023.11.29-00.47.31:785][629]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.47.31:785][629]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-00.47.31:785][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-00.47.31:795][629]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-00.47.31:795][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-00.47.38:825][182]LogViewport: Scene viewport resized to 1544x441, mode Windowed.
+[2023.11.29-00.47.38:867][183]LogViewport: Scene viewport resized to 1544x461, mode Windowed.
+[2023.11.29-00.47.38:896][184]LogViewport: Scene viewport resized to 1544x483, mode Windowed.
+[2023.11.29-00.47.38:929][185]LogViewport: Scene viewport resized to 1544x522, mode Windowed.
+[2023.11.29-00.47.38:957][186]LogViewport: Scene viewport resized to 1544x570, mode Windowed.
+[2023.11.29-00.47.38:991][187]LogViewport: Scene viewport resized to 1544x634, mode Windowed.
+[2023.11.29-00.47.39:022][188]LogViewport: Scene viewport resized to 1544x690, mode Windowed.
+[2023.11.29-00.47.39:060][189]LogViewport: Scene viewport resized to 1544x749, mode Windowed.
+[2023.11.29-00.47.39:092][190]LogViewport: Scene viewport resized to 1544x792, mode Windowed.
+[2023.11.29-00.47.39:122][191]LogViewport: Scene viewport resized to 1544x821, mode Windowed.
+[2023.11.29-00.47.39:151][192]LogViewport: Scene viewport resized to 1544x846, mode Windowed.
+[2023.11.29-00.47.39:180][193]LogViewport: Scene viewport resized to 1544x870, mode Windowed.
+[2023.11.29-00.47.40:156][269]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-00.47.40:166][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-00.47.40:166][269]PIE: New page: PIE session: CS205 (30/11/2023, 2:47:40 am)
+[2023.11.29-00.47.40:189][269]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-00.47.40:301][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112786s)
+[2023.11.29-00.47.40:301][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.112849s)
+[2023.11.29-00.47.40:319][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.29-00.47.40:323][269]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-00.47.40:323][269]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-00.47.40:324][269]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-00.47.40:324][269]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2023.11.29-00.47.40:324][269]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.11.29-00.47.40:324][269]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-00.47.40:324][269]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-00.47.40:324][269]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-00.47.40:324][269]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-00.47.40:324][269]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-00.47.40:324][269]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-00.47.40:324][269]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-00.47.40:324][269]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-00.47.40:325][269]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-00.47.40:325][269]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-00.47.40:325][269]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-00.47.40:327][269]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-00.47.40:351][269]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-00.47.40:351][269]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-00.47.40:351][269]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-00.47.40:351][269]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-00.47.40:352][269]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.11.29-00.47.40:352][269]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.11.29-00.47.40:353][269]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.11.29-00.47.40:353][269]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.11.29-00.47.40:353][269]LogInit: FAudioDevice initialized with ID 7.
+[2023.11.29-00.47.40:353][269]LogAudio: Display: Audio Device (ID: 7) registered with world 'CS205'.
+[2023.11.29-00.47.40:353][269]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.11.29-00.47.40:356][269]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-00.47.40:425][269]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-13.47.40
+[2023.11.29-00.47.40:430][269]LogWorld: Bringing up level for play took: 0.073781
+[2023.11.29-00.47.40:432][269]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.11.29-00.47.40:435][269]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-00.47.40:435][269]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-00.47.40:435][269]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-00.47.40:437][269]PIE: Server logged in
+[2023.11.29-00.47.40:438][269]PIE: Play in editor total start time 0.272 seconds.
+[2023.11.29-00.47.40:443][269]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-00.47.41:508][323]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-00.47.41:508][323]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-00.47.51:851][ 72]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-00.47.51:851][ 72]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-00.47.51:851][ 72]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.29-00.47.54:329][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-00.47.54:329][243]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-00.47.54:330][243]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-00.47.54:340][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-00.47.54:344][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-00.47.54:351][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-00.47.54:373][243]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.29-00.47.54:374][243]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.11.29-00.47.54:374][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.29-00.47.54:376][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.29-00.47.54:380][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-00.47.54:397][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.29-00.47.54:433][244]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.11.29-00.47.58:997][517]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-00.47.59:006][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-00.47.59:006][517]PIE: New page: PIE session: CS205 (30/11/2023, 2:47:59 am)
+[2023.11.29-00.47.59:028][517]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-00.47.59:141][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113135s)
+[2023.11.29-00.47.59:141][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.113177s)
+[2023.11.29-00.47.59:155][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.29-00.47.59:158][517]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-00.47.59:158][517]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-00.47.59:158][517]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-00.47.59:159][517]LogPlayLevel: PIE: World Init took: (0.001444s)
+[2023.11.29-00.47.59:159][517]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.11.29-00.47.59:159][517]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-00.47.59:159][517]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-00.47.59:159][517]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-00.47.59:159][517]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-00.47.59:159][517]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-00.47.59:159][517]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-00.47.59:159][517]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-00.47.59:159][517]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-00.47.59:160][517]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-00.47.59:160][517]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-00.47.59:160][517]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-00.47.59:161][517]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-00.47.59:182][517]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-00.47.59:182][517]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-00.47.59:182][517]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-00.47.59:182][517]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-00.47.59:183][517]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.11.29-00.47.59:183][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.11.29-00.47.59:185][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.11.29-00.47.59:185][517]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.11.29-00.47.59:185][517]LogInit: FAudioDevice initialized with ID 8.
+[2023.11.29-00.47.59:185][517]LogAudio: Display: Audio Device (ID: 8) registered with world 'CS205'.
+[2023.11.29-00.47.59:185][517]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.11.29-00.47.59:187][517]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-00.47.59:247][517]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-13.47.59
+[2023.11.29-00.47.59:251][517]LogWorld: Bringing up level for play took: 0.063735
+[2023.11.29-00.47.59:253][517]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.11.29-00.47.59:257][517]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-00.47.59:257][517]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-00.47.59:257][517]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-00.47.59:258][517]PIE: Server logged in
+[2023.11.29-00.47.59:259][517]PIE: Play in editor total start time 0.253 seconds.
+[2023.11.29-00.47.59:265][517]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-00.48.00:605][583]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-00.48.00:606][583]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-00.48.09:887][260]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-00.48.09:887][260]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-00.48.09:887][260]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.29-00.48.17:360][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-00.48.17:360][791]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-00.48.17:361][791]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-00.48.17:371][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-00.48.17:375][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-00.48.17:381][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-00.48.17:397][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-00.48.17:403][791]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.11.29-00.48.17:403][791]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.29-00.48.17:405][791]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.29-00.48.17:424][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.11.29-00.48.17:459][792]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.11.29-00.48.20:402][951]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-00.48.20:784][958]LogEditorTransaction: Undo Move Node
+[2023.11.29-00.48.21:036][970]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-00.48.21:313][986]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-00.48.21:531][998]LogEditorTransaction: Undo Delete current selection
+[2023.11.29-00.48.21:825][ 15]LogEditorTransaction: Undo Add Node
+[2023.11.29-00.48.22:532][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.48.22:582][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.48.22:606][ 61]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.48.22:606][ 61]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIBD43700E4D23212F283C3DA2C9A1A225.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.48.22:613][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2.81 sec)
+[2023.11.29-00.48.22:615][ 61]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.48.22:615][ 61]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.48.23:419][120]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.48.23:465][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.29-00.48.24:320][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.48.24:360][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.48.24:372][170]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.48.24:373][170]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI3CAA0380454792FB3EC399AE30E693E7.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.48.24:379][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 2.87 sec)
+[2023.11.29-00.48.24:380][170]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.48.24:380][170]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.48.26:897][345]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-00.48.26:906][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-00.48.26:906][345]PIE: New page: PIE session: CS205 (30/11/2023, 2:48:26 am)
+[2023.11.29-00.48.26:928][345]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-00.48.27:044][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115631s)
+[2023.11.29-00.48.27:044][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.115674s)
+[2023.11.29-00.48.27:059][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.29-00.48.27:065][345]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-00.48.27:065][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-00.48.27:065][345]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-00.48.27:066][345]LogPlayLevel: PIE: World Init took: (0.001313s)
+[2023.11.29-00.48.27:066][345]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.11.29-00.48.27:066][345]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-00.48.27:066][345]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-00.48.27:066][345]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-00.48.27:066][345]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-00.48.27:066][345]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-00.48.27:066][345]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-00.48.27:066][345]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-00.48.27:066][345]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-00.48.27:066][345]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-00.48.27:066][345]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-00.48.27:066][345]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-00.48.27:068][345]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-00.48.27:090][345]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-00.48.27:090][345]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-00.48.27:090][345]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-00.48.27:090][345]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-00.48.27:091][345]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.11.29-00.48.27:091][345]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.11.29-00.48.27:093][345]LogInit: FAudioDevice initialized with ID 9.
+[2023.11.29-00.48.27:093][345]LogAudio: Display: Audio Device (ID: 9) registered with world 'CS205'.
+[2023.11.29-00.48.27:093][345]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.11.29-00.48.27:093][345]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.11.29-00.48.27:093][345]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.11.29-00.48.27:095][345]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-00.48.27:156][345]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-13.48.27
+[2023.11.29-00.48.27:161][345]LogWorld: Bringing up level for play took: 0.065296
+[2023.11.29-00.48.27:163][345]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.11.29-00.48.27:166][345]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-00.48.27:166][345]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-00.48.27:166][345]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-00.48.27:168][345]PIE: Server logged in
+[2023.11.29-00.48.27:169][345]PIE: Play in editor total start time 0.263 seconds.
+[2023.11.29-00.48.27:175][345]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-00.48.28:194][396]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-00.48.28:194][396]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-00.48.40:753][321]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-00.48.40:753][321]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-00.48.40:753][321]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.29-00.48.43:779][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-00.48.43:780][531]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-00.48.43:780][531]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-00.48.43:792][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-00.48.43:795][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-00.48.43:800][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-00.48.43:823][531]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.29-00.48.43:823][531]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.11.29-00.48.43:823][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.29-00.48.43:825][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.29-00.48.43:829][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-00.48.43:845][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.29-00.48.43:882][532]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.11.29-00.49.22:701][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.49.22:752][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.49.22:764][648]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.49.22:765][648]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI79B7518B4B8638F82FFF3AA336432F83.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.49.22:771][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.94 sec)
+[2023.11.29-00.49.22:772][648]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.49.22:772][648]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.49.36:750][588]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.49.36:784][588]LogBlueprint: Error: [AssetLog] C:\Users\kyess\Documents\SchoolProjects2023\CS205\cs205\Content\MiniGames\FishingMiniGame_UI.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Vector 2D Structure' on ' Equal (Vector2D) '
+[2023.11.29-00.49.36:784][588]LogBlueprint: Error: [AssetLog] C:\Users\kyess\Documents\SchoolProjects2023\CS205\cs205\Content\MiniGames\FishingMiniGame_UI.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Vector 2D Structure' on ' Equal (Vector2D) '
+[2023.11.29-00.49.36:784][588]LogBlueprint: Error: [AssetLog] C:\Users\kyess\Documents\SchoolProjects2023\CS205\cs205\Content\MiniGames\FishingMiniGame_UI.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Float (single-precision)' on ' Equal (Vector2D) '
+[2023.11.29-00.49.36:784][588]LogBlueprint: Error: [AssetLog] C:\Users\kyess\Documents\SchoolProjects2023\CS205\cs205\Content\MiniGames\FishingMiniGame_UI.uasset: [Compiler] ' Equal (Vector2D) ' could not successfuly expand pins!
+[2023.11.29-00.49.36:815][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.29-00.49.45:319][166]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.49.45:353][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.29-00.49.46:018][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.49.46:063][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.49.46:075][206]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.49.46:076][206]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI6E8D3B9F479793664100A38021EFC636.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.49.46:082][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 3.00 sec)
+[2023.11.29-00.49.46:084][206]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.49.46:084][206]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.50.31:230][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.50.31:276][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.50.31:289][261]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.50.31:289][261]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIB17AE097491D5F590946A9AA5750AA14.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.50.31:295][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 3.07 sec)
+[2023.11.29-00.50.31:298][261]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.50.31:298][261]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.50.31:690][286]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.50.31:727][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.29-00.50.33:531][405]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-00.50.33:541][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-00.50.33:541][405]PIE: New page: PIE session: CS205 (30/11/2023, 2:50:33 am)
+[2023.11.29-00.50.33:569][405]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-00.50.33:682][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113881s)
+[2023.11.29-00.50.33:682][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.113925s)
+[2023.11.29-00.50.33:699][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.29-00.50.33:703][405]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-00.50.33:703][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-00.50.33:704][405]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-00.50.33:704][405]LogPlayLevel: PIE: World Init took: (0.001293s)
+[2023.11.29-00.50.33:705][405]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.11.29-00.50.33:705][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-00.50.33:705][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-00.50.33:705][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-00.50.33:705][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-00.50.33:705][405]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-00.50.33:705][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-00.50.33:705][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-00.50.33:705][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-00.50.33:705][405]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-00.50.33:705][405]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-00.50.33:705][405]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-00.50.33:707][405]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-00.50.33:729][405]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-00.50.33:729][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-00.50.33:729][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-00.50.33:729][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-00.50.33:729][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.11.29-00.50.33:729][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.11.29-00.50.33:731][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.11.29-00.50.33:731][405]LogInit: FAudioDevice initialized with ID 10.
+[2023.11.29-00.50.33:731][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.11.29-00.50.33:731][405]LogAudio: Display: Audio Device (ID: 10) registered with world 'CS205'.
+[2023.11.29-00.50.33:731][405]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.11.29-00.50.33:734][405]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-00.50.33:793][405]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-13.50.33
+[2023.11.29-00.50.33:798][405]LogWorld: Bringing up level for play took: 0.063793
+[2023.11.29-00.50.33:800][405]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.11.29-00.50.33:803][405]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-00.50.33:803][405]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-00.50.33:803][405]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-00.50.33:805][405]PIE: Server logged in
+[2023.11.29-00.50.33:805][405]PIE: Play in editor total start time 0.265 seconds.
+[2023.11.29-00.50.33:811][405]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-00.50.35:505][494]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-00.50.35:505][494]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-00.50.39:300][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-00.50.39:300][765]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-00.50.39:300][765]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-00.50.39:311][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-00.50.39:314][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-00.50.39:321][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-00.50.39:339][765]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.29-00.50.39:345][765]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.11.29-00.50.39:345][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.29-00.50.39:347][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.29-00.50.39:351][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-00.50.39:368][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.29-00.50.39:416][766]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.11.29-00.50.45:398][171]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.50.45:433][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.29-00.50.47:634][323]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-00.50.47:644][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-00.50.47:644][323]PIE: New page: PIE session: CS205 (30/11/2023, 2:50:47 am)
+[2023.11.29-00.50.47:668][323]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-00.50.47:784][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115704s)
+[2023.11.29-00.50.47:784][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.115747s)
+[2023.11.29-00.50.47:801][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.29-00.50.47:806][323]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-00.50.47:806][323]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-00.50.47:806][323]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-00.50.47:807][323]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2023.11.29-00.50.47:807][323]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.11.29-00.50.47:807][323]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-00.50.47:807][323]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-00.50.47:807][323]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-00.50.47:807][323]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-00.50.47:807][323]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-00.50.47:807][323]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-00.50.47:807][323]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-00.50.47:807][323]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-00.50.47:808][323]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-00.50.47:808][323]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-00.50.47:808][323]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-00.50.47:809][323]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-00.50.47:831][323]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-00.50.47:831][323]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-00.50.47:831][323]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-00.50.47:831][323]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-00.50.47:832][323]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.11.29-00.50.47:832][323]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.11.29-00.50.47:834][323]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.11.29-00.50.47:834][323]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.11.29-00.50.47:834][323]LogInit: FAudioDevice initialized with ID 11.
+[2023.11.29-00.50.47:834][323]LogAudio: Display: Audio Device (ID: 11) registered with world 'CS205'.
+[2023.11.29-00.50.47:834][323]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.11.29-00.50.47:837][323]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-00.50.47:901][323]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-13.50.47
+[2023.11.29-00.50.47:906][323]LogWorld: Bringing up level for play took: 0.068456
+[2023.11.29-00.50.47:908][323]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.11.29-00.50.47:911][323]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-00.50.47:911][323]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-00.50.47:911][323]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-00.50.47:913][323]PIE: Server logged in
+[2023.11.29-00.50.47:914][323]PIE: Play in editor total start time 0.27 seconds.
+[2023.11.29-00.50.47:920][323]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-00.50.48:990][376]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-00.50.48:990][376]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-00.50.58:504][ 78]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-00.50.58:505][ 78]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-00.50.58:505][ 78]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.29-00.50.59:064][119]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1068.000 Y=796.000
+[2023.11.29-00.51.00:216][203]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1068.000 Y=796.000
+[2023.11.29-00.51.01:504][297]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1068.000 Y=796.000
+[2023.11.29-00.51.02:267][353]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1068.000 Y=796.000
+[2023.11.29-00.51.02:541][373]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1068.000 Y=796.000
+[2023.11.29-00.51.02:801][392]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1068.000 Y=796.000
+[2023.11.29-00.51.03:130][416]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1068.000 Y=796.000
+[2023.11.29-00.51.04:116][488]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1068.000 Y=796.000
+[2023.11.29-00.51.04:595][523]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1068.000 Y=796.000
+[2023.11.29-00.51.04:800][538]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1068.000 Y=796.000
+[2023.11.29-00.51.04:992][552]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1068.000 Y=796.000
+[2023.11.29-00.51.05:142][563]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1068.000 Y=796.000
+[2023.11.29-00.51.06:120][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-00.51.06:120][632]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-00.51.06:121][632]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-00.51.06:131][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-00.51.06:134][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-00.51.06:141][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-00.51.06:166][632]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.29-00.51.06:166][632]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.11.29-00.51.06:166][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.29-00.51.06:168][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.29-00.51.06:173][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-00.51.06:188][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.11.29-00.51.06:225][633]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.11.29-00.51.10:639][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.51.10:687][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.51.10:700][930]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.51.10:700][930]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIA5F93EFE4C23EBE67E395F96BE47CA7C.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.51.10:708][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 3.14 sec)
+[2023.11.29-00.51.10:709][930]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.51.10:709][930]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.51.13:338][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.51.13:383][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.51.13:397][116]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.51.13:397][116]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIF580364E47984228591681A8B45E2CDA.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.51.13:402][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 3.20 sec)
+[2023.11.29-00.51.13:404][116]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.51.13:404][116]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.51.16:633][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.51.16:676][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.51.16:688][347]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.51.16:688][347]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UID4D0972347EA7D196DDAAAA92476DAB3.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.51.16:694][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 3.26 sec)
+[2023.11.29-00.51.16:696][347]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.51.16:696][347]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.52.29:603][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.11.29-00.52.29:606][691]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CS205' took 0.020
+[2023.11.29-00.52.29:606][691]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MiniGames/FishingMiniGame_UI] ([2] browsable assets)...
+[2023.11.29-00.52.29:610][691]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI]
+[2023.11.29-00.52.29:610][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGames/FishingMiniGame_UI]
+[2023.11.29-00.52.29:623][691]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MiniGames/FishingMiniGame_UI_Auto4
+[2023.11.29-00.52.29:624][691]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI_Auto4976256BF4F30CC74A6E601A3F3E837AD.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/Autosaves/Game/MiniGames/FishingMiniGame_UI_Auto4.uasset'
+[2023.11.29-00.52.29:625][691]LogFileHelpers: Auto-saving content packages took 0.019
+[2023.11.29-00.54.08:904][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.54.08:953][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.54.08:966][ 86]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.54.08:967][ 86]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIB56EE503444A81C2EA4E68B8F982D467.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.54.08:972][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 3.33 sec)
+[2023.11.29-00.54.08:974][ 86]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.54.08:974][ 86]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.54.10:984][224]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-00.54.11:436][237]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-00.54.11:958][270]LogEditorTransaction: Undo Move Node
+[2023.11.29-00.54.12:392][298]LogEditorTransaction: Undo Add Node
+[2023.11.29-00.54.12:967][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.54.13:015][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.54.13:031][336]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.54.13:031][336]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI7AAFFDD64E111AF765CB00870B66CC0F.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.54.13:040][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 3.41 sec)
+[2023.11.29-00.54.13:044][336]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.54.13:044][336]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.54.23:831][ 47]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-00.54.32:333][615]LogEditorTransaction: Undo Promote To Variable
+[2023.11.29-00.54.34:013][704]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::EqualEqual_Vector2DVector2D' [Element not found.]
+[2023.11.29-00.54.42:754][318]LogEditorTransaction: Undo Move Node
+[2023.11.29-00.54.43:211][332]LogEditorTransaction: Undo Create Pin Link
+[2023.11.29-00.54.43:754][366]LogEditorTransaction: Undo Add Node
+[2023.11.29-00.54.45:186][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.54.45:237][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.54.45:250][467]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.54.45:250][467]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI72D610C44795F8F117D155B70B6432F9.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.54.45:257][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 3.48 sec)
+[2023.11.29-00.54.45:259][467]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.54.45:259][467]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.55.14:936][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.55.14:988][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.55.15:001][547]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.55.15:002][547]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI3077F2D24F98D6C5372E44B70B506BDD.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.55.15:008][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 3.55 sec)
+[2023.11.29-00.55.15:010][547]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.55.15:010][547]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.55.31:716][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.55.31:754][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.55.31:767][650]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.55.31:768][650]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI32287C2E4F2FCCD2D1CE7D9FE0EEA93D.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.55.31:774][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 3.61 sec)
+[2023.11.29-00.55.31:776][650]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.55.31:776][650]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.55.32:531][703]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-00.55.32:570][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.11.29-00.55.34:651][842]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-00.55.34:661][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-00.55.34:661][842]PIE: New page: PIE session: CS205 (30/11/2023, 2:55:34 am)
+[2023.11.29-00.55.34:689][842]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-00.55.34:806][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116609s)
+[2023.11.29-00.55.34:806][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.116649s)
+[2023.11.29-00.55.34:821][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.11.29-00.55.34:826][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-00.55.34:826][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-00.55.34:827][842]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-00.55.34:828][842]LogPlayLevel: PIE: World Init took: (0.001319s)
+[2023.11.29-00.55.34:828][842]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.11.29-00.55.34:828][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-00.55.34:828][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-00.55.34:828][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-00.55.34:828][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-00.55.34:828][842]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-00.55.34:828][842]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-00.55.34:828][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-00.55.34:828][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-00.55.34:828][842]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-00.55.34:828][842]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-00.55.34:828][842]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-00.55.34:830][842]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-00.55.34:852][842]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-00.55.34:852][842]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-00.55.34:853][842]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-00.55.34:853][842]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-00.55.34:853][842]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.11.29-00.55.34:853][842]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.11.29-00.55.34:855][842]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.11.29-00.55.34:855][842]LogInit: FAudioDevice initialized with ID 12.
+[2023.11.29-00.55.34:855][842]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.11.29-00.55.34:855][842]LogAudio: Display: Audio Device (ID: 12) registered with world 'CS205'.
+[2023.11.29-00.55.34:855][842]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.11.29-00.55.34:857][842]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-00.55.34:920][842]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-13.55.34
+[2023.11.29-00.55.34:925][842]LogWorld: Bringing up level for play took: 0.067109
+[2023.11.29-00.55.34:927][842]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.11.29-00.55.34:930][842]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-00.55.34:930][842]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-00.55.34:930][842]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-00.55.34:932][842]PIE: Server logged in
+[2023.11.29-00.55.34:933][842]PIE: Play in editor total start time 0.273 seconds.
+[2023.11.29-00.55.34:939][842]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-00.55.36:044][898]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-00.55.36:045][898]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-00.55.45:723][607]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-00.55.45:723][607]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-00.55.45:723][607]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.29-00.55.46:376][653]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1104.000 Y=784.000
+[2023.11.29-00.55.47:434][727]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1104.000 Y=784.000
+[2023.11.29-00.55.48:105][774]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1104.000 Y=784.000
+[2023.11.29-00.55.49:007][837]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1104.000 Y=784.000
+[2023.11.29-00.55.50:702][956]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1104.000 Y=784.000
+[2023.11.29-00.55.51:143][987]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1104.000 Y=784.000
+[2023.11.29-00.55.51:698][ 26]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1104.000 Y=784.000
+[2023.11.29-00.55.52:154][ 58]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1104.000 Y=784.000
+[2023.11.29-00.55.52:613][ 90]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1104.000 Y=784.000
+[2023.11.29-00.55.52:841][106]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1104.000 Y=784.000
+[2023.11.29-00.55.53:113][125]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1104.000 Y=784.000
+[2023.11.29-00.55.53:440][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-00.55.53:440][145]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-00.55.53:441][145]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-00.55.53:451][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-00.55.53:454][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-00.55.53:461][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-00.55.53:485][145]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.29-00.55.53:486][145]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.11.29-00.55.53:486][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.11.29-00.55.53:487][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.11.29-00.55.53:492][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-00.55.53:508][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.29-00.55.53:549][146]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.11.29-00.56.19:317][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.56.19:369][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.56.19:381][826]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.56.19:382][826]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI5BA6AD20441748379A411EB66D7C9069.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.56.19:388][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 3.68 sec)
+[2023.11.29-00.56.19:389][826]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.56.19:389][826]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.56.27:277][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-00.56.27:322][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-00.56.27:335][342]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-00.56.27:335][342]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI82E388F14132752CC367228E3291E86F.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-00.56.27:341][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 3.74 sec)
+[2023.11.29-00.56.27:343][342]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-00.56.27:343][342]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-00.57.59:262][ 65]LogDerivedDataCache: C:/Users/kyess/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.064 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5096 files in 6354 folders with total size 146 MiB.
+[2023.11.29-00.59.13:536][538]LogEditorTransaction: Undo Set Key Value
+[2023.11.29-01.00.09:344][475]LogEditorTransaction: Undo Set Key Value
+[2023.11.29-01.00.14:832][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.00.14:884][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.00.14:904][829]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.00.14:905][829]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIFE29F3E34D500670DBF3CDB5F01ADDB5.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.00.14:912][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 3.82 sec)
+[2023.11.29-01.00.14:914][829]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.00.14:914][829]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.00.32:396][ 76]LogEditorTransaction: Undo Reset to Default
+[2023.11.29-01.00.52:719][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.00.52:757][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.00.52:777][495]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.00.52:778][495]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI9D9FD0E940DD60365C66EE97F00F9C24.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.00.52:785][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 3.89 sec)
+[2023.11.29-01.00.52:787][495]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.00.52:787][495]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.01.07:338][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.01.07:386][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.01.07:405][487]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.01.07:406][487]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI12D6B7AF44D219EDFFC2B5B4DFA589BE.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.01.07:412][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 3.96 sec)
+[2023.11.29-01.01.07:414][487]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.01.07:414][487]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.01.12:025][812]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.01.12:072][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.01.12:092][812]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.01.12:092][812]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI51B0687F42506178E52CCF8209F7D7AF.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.01.12:098][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 4.04 sec)
+[2023.11.29-01.01.12:100][812]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.01.12:100][812]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.01.44:096][970]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.01.44:154][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.11.29-01.01.46:114][101]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-01.01.46:123][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-01.01.46:124][101]PIE: New page: PIE session: CS205 (30/11/2023, 3:01:46 am)
+[2023.11.29-01.01.46:124][101]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-01.01.46:238][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114276s)
+[2023.11.29-01.01.46:238][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.114317s)
+[2023.11.29-01.01.46:255][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.29-01.01.46:263][101]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-01.01.46:263][101]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-01.01.46:263][101]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-01.01.46:264][101]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2023.11.29-01.01.46:264][101]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.11.29-01.01.46:264][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-01.01.46:264][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-01.01.46:264][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-01.01.46:264][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-01.01.46:264][101]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-01.01.46:264][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-01.01.46:264][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-01.01.46:264][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-01.01.46:265][101]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-01.01.46:265][101]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-01.01.46:265][101]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-01.01.46:267][101]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-01.01.46:289][101]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-01.01.46:289][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-01.01.46:289][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-01.01.46:289][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-01.01.46:290][101]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.11.29-01.01.46:290][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.11.29-01.01.46:292][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.11.29-01.01.46:292][101]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.11.29-01.01.46:292][101]LogInit: FAudioDevice initialized with ID 13.
+[2023.11.29-01.01.46:292][101]LogAudio: Display: Audio Device (ID: 13) registered with world 'CS205'.
+[2023.11.29-01.01.46:292][101]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.11.29-01.01.46:294][101]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-01.01.46:355][101]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-14.01.46
+[2023.11.29-01.01.46:360][101]LogWorld: Bringing up level for play took: 0.064833
+[2023.11.29-01.01.46:362][101]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.11.29-01.01.46:365][101]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.01.46:365][101]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.01.46:365][101]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-01.01.46:367][101]PIE: Server logged in
+[2023.11.29-01.01.46:368][101]PIE: Play in editor total start time 0.245 seconds.
+[2023.11.29-01.01.46:374][101]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-01.01.47:147][137]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-01.01.47:147][137]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-01.01.56:859][832]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.01.56:859][832]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.01.56:859][832]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.29-01.01.57:574][881]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=765.731 Y=784.000
+[2023.11.29-01.01.58:406][938]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=917.243 Y=784.000
+[2023.11.29-01.01.59:391][  5]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1359.297 Y=784.000
+[2023.11.29-01.02.00:546][ 83]LogBlueprintUserMessages: [FishingMiniGame_UI_C_0] X=1365.723 Y=784.000
+[2023.11.29-01.02.01:270][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.02.01:270][130]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-01.02.01:272][130]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.02.01:282][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.02.01:285][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-01.02.01:292][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.02.01:315][130]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.29-01.02.01:316][130]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.11.29-01.02.01:316][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.11.29-01.02.01:318][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.11.29-01.02.01:322][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.02.01:341][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.11.29-01.02.01:378][131]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.11.29-01.02.07:216][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.02.07:264][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.02.07:276][506]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.02.07:277][506]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIAF8CE7D64CEC26EAFCABE9B840A085D2.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.02.07:283][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 4.10 sec)
+[2023.11.29-01.02.07:285][506]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.02.07:285][506]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.02.14:181][979]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.02.14:220][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.29-01.02.14:940][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.02.14:990][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.02.15:003][ 18]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.02.15:003][ 18]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI355824C44381AB2533D1EF8C11E24D5F.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.02.15:010][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 4.17 sec)
+[2023.11.29-01.02.15:011][ 18]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.02.15:011][ 18]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.02.18:127][230]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.02.18:176][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.02.18:188][230]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.02.18:189][230]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI1263E6874BBDAF61742CFBADA0F66427.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.02.18:195][230]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 4.24 sec)
+[2023.11.29-01.02.18:196][230]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.02.18:196][230]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.02.50:818][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.02.50:874][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.02.50:887][275]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.02.50:888][275]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UIB70166264FAA84FCCD243B93BA608F7A.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.02.50:894][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 4.32 sec)
+[2023.11.29-01.02.50:896][275]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.02.50:896][275]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
+[2023.11.29-01.02.51:326][302]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.02.51:362][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.29-01.02.55:618][570]BlueprintLog: New page: Compile FishingMiniGame_UI
+[2023.11.29-01.02.55:659][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.29-01.02.57:752][704]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-01.02.57:763][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-01.02.57:763][704]PIE: New page: PIE session: CS205 (30/11/2023, 3:02:57 am)
+[2023.11.29-01.02.57:764][704]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CS205
+[2023.11.29-01.02.57:879][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114734s)
+[2023.11.29-01.02.57:879][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS205.CS205 to /Game/UEDPIE_0_CS205.CS205 (0.114774s)
+[2023.11.29-01.02.57:895][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.29-01.02.57:901][704]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.29-01.02.57:901][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-01.02.57:901][704]LogAIModule: Creating AISystem for world CS205
+[2023.11.29-01.02.57:902][704]LogPlayLevel: PIE: World Init took: (0.001325s)
+[2023.11.29-01.02.57:902][704]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.11.29-01.02.57:902][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-01.02.57:902][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-01.02.57:902][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-01.02.57:902][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-01.02.57:902][704]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.29-01.02.57:902][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.29-01.02.57:902][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.29-01.02.57:902][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-01.02.57:902][704]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-01.02.57:902][704]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-01.02.57:902][704]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-01.02.57:904][704]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-01.02.57:927][704]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX DuoCast)
+[2023.11.29-01.02.57:927][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-01.02.57:927][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-01.02.57:927][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-01.02.57:928][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.11.29-01.02.57:928][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.11.29-01.02.57:929][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.11.29-01.02.57:929][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.11.29-01.02.57:929][704]LogInit: FAudioDevice initialized with ID 14.
+[2023.11.29-01.02.57:929][704]LogAudio: Display: Audio Device (ID: 14) registered with world 'CS205'.
+[2023.11.29-01.02.57:929][704]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.11.29-01.02.57:932][704]LogLoad: Game class is 'Bp_GameMode_C'
+[2023.11.29-01.02.57:995][704]LogWorld: Bringing World /Game/UEDPIE_0_CS205.CS205 up for play (max tick rate 0) at 2023.11.29-14.02.57
+[2023.11.29-01.02.58:000][704]LogWorld: Bringing up level for play took: 0.067484
+[2023.11.29-01.02.58:002][704]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.11.29-01.02.58:005][704]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.02.58:005][704]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.02.58:005][704]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.29-01.02.58:008][704]PIE: Server logged in
+[2023.11.29-01.02.58:008][704]PIE: Play in editor total start time 0.245 seconds.
+[2023.11.29-01.02.58:014][704]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestWalk-320bit_chosic_com_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.29-01.02.59:092][757]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.29-01.02.59:092][757]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.29-01.03.09:845][541]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.11.29-01.03.09:845][541]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.29-01.03.09:845][541]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.29-01.03.15:200][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.03.15:200][910]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CS205
+[2023.11.29-01.03.15:201][910]LogWorld: UWorld::CleanupWorld for CS205, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-01.03.15:212][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.03.15:215][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-01.03.15:223][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-01.03.15:247][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.29-01.03.15:248][910]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.11.29-01.03.15:248][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.11.29-01.03.15:249][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.11.29-01.03.15:256][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-01.03.15:272][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.11.29-01.03.15:310][911]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.11.29-01.03.41:215][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.11.29-01.03.41:220][105]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CS205' took 0.022
+[2023.11.29-01.03.41:220][105]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MiniGames/FishingMiniGame_UI] ([2] browsable assets)...
+[2023.11.29-01.03.41:225][105]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI]
+[2023.11.29-01.03.41:225][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGames/FishingMiniGame_UI]
+[2023.11.29-01.03.41:250][105]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MiniGames/FishingMiniGame_UI_Auto5
+[2023.11.29-01.03.41:251][105]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI_Auto5C099FF11430B0BC8147EA1940058ED6C.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/Autosaves/Game/MiniGames/FishingMiniGame_UI_Auto5.uasset'
+[2023.11.29-01.03.41:252][105]LogFileHelpers: Auto-saving content packages took 0.033
+[2023.11.29-01.03.48:853][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-01.03.48:891][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGames/FishingMiniGame_UI" FILE="C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset" SILENT=true
+[2023.11.29-01.03.48:904][156]LogSavePackage: Moving output files for package: /Game/MiniGames/FishingMiniGame_UI
+[2023.11.29-01.03.48:905][156]LogSavePackage: Moving 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Saved/FishingMiniGame_UI962DF79D4B6C05349DC4168F1F7C7C54.tmp' to 'C:/Users/kyess/Documents/SchoolProjects2023/CS205/cs205/Content/MiniGames/FishingMiniGame_UI.uasset'
+[2023.11.29-01.03.48:911][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 4.37 sec)
+[2023.11.29-01.03.48:911][156]AssetCheck: New page: Asset Save: FishingMiniGame_UI
+[2023.11.29-01.03.48:911][156]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiniGames/FishingMiniGame_UI.FishingMiniGame_UI
