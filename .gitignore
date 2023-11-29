@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+cs205/Saved/AutoScreenshot.png
+*.log
+*.ini
