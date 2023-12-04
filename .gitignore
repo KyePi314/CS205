@@ -75,3 +75,5 @@ DerivedDataCache/*
 cs205/Saved/AutoScreenshot.png
 *.log
 *.ini
+cs205/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+cs205/Saved/Logs/cs205.log
