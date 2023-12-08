@@ -1204,3 +1204,13 @@ Make sure 'SavedGames' has been compiled for  Get SavedNames
 [2023.12.08-02.09.27:519][278]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
 [2023.12.08-02.09.27:519][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.12.08-02.10.22:046][603]LogDerivedDataCache: C:/Users/forpc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.067 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 906 files in 1585 folders with total size 38 MiB.
+[2023.12.08-02.20.56:462][760]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/PlayerCharacter/PlayerCharacter_Bp.PlayerCharacter_Bp
+[2023.12.08-02.20.56:462][760]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.08-02.20.56:462][760]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.08-02.21.16:384][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.08-02.21.16:467][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerCharacter/PlayerCharacter_Bp" FILE="D:/Yoobee/Year Two/CS205/cs205/Content/Characters/PlayerCharacter/PlayerCharacter_Bp.uasset" SILENT=true
+[2023.12.08-02.21.16:488][580]LogSavePackage: Moving output files for package: /Game/Characters/PlayerCharacter/PlayerCharacter_Bp
+[2023.12.08-02.21.16:488][580]LogSavePackage: Moving 'D:/Yoobee/Year Two/CS205/cs205/Saved/PlayerCharacter_Bp94643A35455CA6D943569E978B0DC294.tmp' to 'D:/Yoobee/Year Two/CS205/cs205/Content/Characters/PlayerCharacter/PlayerCharacter_Bp.uasset'
+[2023.12.08-02.21.16:497][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 260 ms)
+[2023.12.08-02.21.16:499][580]AssetCheck: New page: Asset Save: PlayerCharacter_Bp
+[2023.12.08-02.21.16:499][580]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/PlayerCharacter/PlayerCharacter_Bp.PlayerCharacter_Bp
